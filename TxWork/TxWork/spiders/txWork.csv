@@ -1,0 +1,1695 @@
+title,department,address,post,date,recruit-data
+腾讯游戏-高级Python数据采集工程师,IEG,"深圳
+                  ",技术,更新于2024年12月24日,"1.主导和参与数据采集系统的架构设计、开发与优化，确保系统高效稳定运行；
+2.负责海内外数据采集功能的开发与维护，满足不同地域的数据需求；
+3.进行前沿技术研究，针对难点进行攻关，提升系统的技术水平和竞争力；
+4.实时监控系统任务的执行状况，及时发现并处理异常，保障数据采集的连续性和准确性。"
+分布式计算研发工程师-Ray（深圳/北京/上海）,TEG,"北京
+                  ",技术,更新于2024年12月18日,"1.基于开源项目 Ray，打造业内领先的通用分布式计算引擎，包括但不限于以下方向：引擎内核（分布式Task调度与执行）、分布式数据处理框架、分布式在线服务编排框架等；
+2.面向 Data + AI，支持和拓展以 Ray 为 infra 的多种业务场景，包括但不限于以下方向：数据科学、大模型训练数据管道服务、在线推理与离线推理、AI Agent与应用系统、隐私计算、图计算等；
+3.与 K8S 深度融合，建设云原生环境下超大规模分布式系统的服务能力与平台化能力，为业务提供高可用、可扩展、高易用性的集群化服务；
+4.参与开源共建与合作，提升团队与个人在业界的影响力。"
+实时互动AI解决方案研发工程师,CSIG,"北京
+                  ",技术,更新于2024年12月04日,"1.负责实时互动 AI 对话能力相关技术的研究和开发，核心技术问题攻坚，延迟优化，效果提升；
+2.结合业务探索新的实时互动+AI 落地场景，在识别、增强、理解、合成方面进行业务创新。"
+腾讯游戏-测试开发工程师,IEG,"深圳
+                  ",技术,更新于2024年11月11日,"1.负责腾讯游戏编译相关的测试工作，包括功能测试、专项测试（性能、安全测试等）执行和测试工具的开发；
+2.根据项目需求制定测试计划，组织设计测试用例，整体把控项目质量，并不断优化测试效率和提高测试质量；
+3.整理现有的自动化测试工具和平台，汇总合并形成统一、稳定和高效的自动化解决方案；
+4.跟进和解决自动化执行中的问题，并提炼出优化方案，帮助产品提升质量和效率。"
+魔方工作室-技术美术（动作TA）,IEG,"深圳
+                  ",设计,更新于2024年12月03日,"1.负责与引擎技术组对接动作相关的需求，并完成相应功能验证；
+2.负责Unity中的资产设置、动画设置、物理设置、剧情编辑器和ik动作设置等工作；
+3.在Maya和Unity中实现动作相关流程的设计与开发。"
+腾讯专有云系统测试工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月10日,"1.负责腾讯专有云产品的需求和架构分析，测试设计和测试开发工作,包括IaaS，PaaS，SaaS,存储，网络等，包括但不限于功能，性能，可靠性，鲁棒性，升级部署验证，用户体验等系统测试；
+2.对测试方案进行有效的落地和执行，以确保项目进度和软件质量，形成自动化测试用例并进一步形成服务化提升效率；
+3.架构并实现IaaS，PaaS等产品自动化测试能力，提升产品测试和交付效率；
+4.不断提升测试过程，方法和技术，构建质量评估标准，优化改进措施，提升产品质量和效率；
+5.备注：此岗位为腾讯集团旗下子公司编制岗位。"
+Compliance Testing Senior Manager,S1,"中国香港
+                  ",法律与公共策略,更新于2024年12月03日,"1.Assess and evaluate the establishment and operation of internal controls in relation to the Group's fintech business, as well as the compliance, appropriateness, and effectiveness of business operations.
+2.Independently develop product “compliance” testing plans (including but not limited to specifically designed testing plans for financial and legal compliance risks), utilize testing means to follow up on the formulation and implementation of key business strategies, identify risk issues, issue testing reports and follow up on the implementation of rectification measures."
+加速后台开发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月15日,"1.负责腾讯云EdgeOne、CDN业务底层转发平台的研发和日常运营；
+2.产品服务于全球客户，为企业提供一站式网络加速和安全防护能力；
+3.技术上涉及：全球网络加速、安全攻防对抗、DNS、调度、Anycast等方向。"
+微信搜索-搜索排序算法工程师,WXG,"北京
+                  ",技术,更新于2024年12月18日,"1.参与搜索排序算法优化工作，通过技术优化，提升搜索体验；
+2.工作内容包括并不限于：用户需求理解、相关性优化、质量权威性优化、召回和精排优化、case 问题分析等；
+3.涉及技术包括并不限于：大模型应用、海量用户行为挖掘、高级特征建设、深度模型调优等。"
+腾讯云-大数据系统测试工程师（成都/深圳/北京）,CSIG,"成都
+                  ",技术,更新于2024年12月03日,"1.负责大数据hadoop，spark，ES, hive，flink，clickhouse以及数据湖等相关产品的测试工作；
+2.分析产品相关需求、设计、架构等，设计测试方法和测试用例；
+3.挖掘并跟进实施性能测试、竞品对比测试、稳定性等专项测试，保障和提升产品质量；
+4.负责建设产品相关的自动化测试、Devops等工作；
+5.不断改进测试过程、方法和技术，提升产品质量。"
+微信小程序-数据分析,WXG,"广州
+                  ",技术,更新于2024年12月06日,"1.负责小程序业务数据分析，洞察业务机会，发现业务问题，为产品迭代提供决策依据；
+2.通过机器学习、因果推断、AB实验等技术方案推进业务策略迭代和优化。"
+DevOps Engineer 101733,TEG,"帕罗奥多
+                  ",技术,更新于2023年08月17日,"- Building and supporting infrastructure tools to improve processes & efficiency.
+- Building advanced automated build, test, and release infrastructure tools.
+- Identifying and solving critical problems and preventing them from reoccurring via root cause analysis and automation.
+Work Location: US-Palo Alto"
+大数据系统测试工程师,腾讯云智研发子公司,"武汉
+                  ",技术,更新于2024年12月18日,"1.负责大数据hadoop，spark，ES, hive，flink，clickhouse以及数据湖等相关产品的测试工作；
+2.分析产品相关需求、设计、架构等，设计测试方法和测试用例；
+3.挖掘并跟进实施性能测试、竞品对比测试、稳定性等专项测试，保障和提升产品质量；
+4.负责建设产品相关的自动化测试、Devops等工作；
+5.不断改进测试过程、方法和技术，提升产品质量；
+6.注：此岗位为腾讯集团旗下子公司编制岗位。"
+金融科技风险模型分析师（北京&深圳）,CDG,"深圳
+                  ",技术,更新于2024年12月20日,"1.通过机器学习建模与数据挖掘有效识别支付领域各类违法犯罪风险（如涉赌、欺诈、洗钱）并进行实时打击，控制风险大盘；
+2.同时基于上下游信息，对风险手法及链路进行识别，挖掘并打击可疑团伙。"
+Video Standards & Encoding Optimization Intern 103557,CSIG,"帕罗奥多
+                  ",更新于2024年11月20日,更新于2024年11月20日,"● Conduct research and develop innovative solutions for video compression and processing.● Work on optimizing video encoders to improve performance and video quality.
+Work Location: US-Palo Alto"
+大数据系统测试工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月04日,"1.负责大数据hadoop，spark，ES, hive，flink，clickhouse以及数据湖等相关产品的测试工作；
+2.分析产品相关需求、设计、架构等，设计测试方法和测试用例；
+3.挖掘并跟进实施性能测试、竞品对比测试、稳定性等专项测试，保障和提升产品质量；
+4.负责建设产品相关的自动化测试、Devops等工作；
+5.不断改进测试过程、方法和技术，提升产品质量；
+6.注：此岗位为腾讯集团旗下子公司编制岗位。"
+大模型数据工程算法工程师,TEG,"深圳
+                  ",技术,更新于2024年12月16日,"1.设计和开发大规模预训练数据处理pipeline，为模型预训练提供稳定、可靠的高质量数据处理能力；
+2.根据大模型训练数据特点，抽象并开发高效、可靠的数据加工框架，提升处理数据的工程效率；
+3.建设对标业内前沿的大模型训练数据集和数据清洗能力，提升数据质量和多样性，并验证数据价值和效果。"
+《王者荣耀》-技术策划,IEG,"成都
+                  ",产品,更新于2024年11月14日,"1.玩法制作，包括不限于框架搭建，蓝图逻辑，AI功能，界面布局逻辑制作；
+2.着眼未来项目发展方向，探寻策划日常工作痛点，推动相关程序/策划/PM，优化现有管线；
+3.主导维护特定管线；
+4.协助策划与其他职能沟通和设计需求的解决方案。"
+客户端性能测试工程师（游戏业务）,IEG,"深圳
+                  ",技术,更新于2024年12月09日,"1.负责游戏客户端性能测试工作，包括测试设计和执行、性能问题分析、流程和自动化建设等；
+2.负责开发、优化客户端性能测试相关的执行或分析类工具，提升测试质量和效率；
+3.负责收集和分析业务性能测试需求，探索更多的测试方法；
+4.管理性能测试团队。"
+混元大模型数据专家工程师,TEG,"深圳
+                  ",技术,更新于2024年12月09日,"1.设计和开发大规模预训练数据处理pipeline，为模型预训练提供稳定、可靠的高质量数据处理能力；
+2.根据大模型训练数据特点，抽象并开发高效、可靠的数据加工框架，提升处理数据的工程效率；
+3.建设对标业内前沿的大模型训练数据集，提升数据质量和多样性，并验证数据价值和效果。"
+混元大模型数据专家工程师,TEG,"北京
+                  ",技术,更新于2024年12月09日,"1.设计和开发大规模预训练数据处理pipeline，为模型预训练提供稳定、可靠的高质量数据处理能力；
+2.根据大模型训练数据特点，抽象并开发高效、可靠的数据加工框架，提升处理数据的工程效率；
+3.建设对标业内前沿的大模型训练数据集，提升数据质量和多样性，并验证数据价值和效果。"
+Security Operation Engineer II,Overseas Functional System,"吉隆坡
+                  ",更新于2024年11月20日,更新于2024年11月20日,"Responsible for receiving, analyzing, and handling security tickets, ensuring timely response and resolution.
+Conduct daily inspections of security systems to ensure proper operation, and quickly diagnose and resolve any anomalies.
+Participate in incident response during security events, assisting in the analysis, problem identification, and execution of follow-up tasks.
+Identify efficiency issues in daily operations and implement improvements to enhance execution efficiency.
+负责安全工单的接收、分析与处理，确保安全工单的及时响应与解决。
+安全系统的日常巡检，确保系统正常运行，对异常情况进行快速排查和修复。
+发生安全事件时，参与应急响应，协助分析、定位问题以及后续任务的执行。
+发现日常运营工作中的效率问题，通过工作提升执行效率。
+Work Location: Malaysia-Kuala Lumpur"
+Game AI Engineer Intern 104492,IEG,"伦敦
+                  ",更新于2024年11月28日,更新于2024年11月28日,"We are seeking a talented and enthusiastic Game AI Engineer Intern with a specialization in machine learning or generative AI. In this role, you will work closely with our AI and game development teams to develop and implement cutting-edge AI systems that enhance gameplay experiences.
+
+Key Responsibilities:
+1. Collaborate with AI researchers and game developers to design and implement AI algorithms and systems.
+2. Develop machine learning models and generative AI techniques to create intelligent and adaptive game characters.
+3. Test and optimize AI behaviors to ensure seamless integration into the game environment.
+4. Conduct research on the latest advancements in AI and apply findings to our projects.
+5. Assist in the creation of AI tools and frameworks to support game development.
+6. Document work and provide detailed reports on AI development progress and outcomes.
+Work Location: UK-London"
+运营开发高级工程师,TEG,"成都
+                  ",技术,更新于2024年12月23日,"1.梳理部门运营场景业务的需求和运营系统的特点，抽象建设能高效配置化上线运营系统的通用运营研发中台；
+2.负责梳理各运营系统的研发共性，挖掘并建设能支撑运营系统高效研发的基础公共组件、服务和公共支撑平台；
+3.负责部门运营支撑平台的规划设计、开发和维护工作；
+4.负责优化、改进和整合原有web运营系统并保证其高效稳定的运行。"
+腾讯游戏高级海外运营经理,IEG,"深圳
+                  ",产品,更新于2024年12月10日,"1.负责公司出海游戏的投放及数据分析，并能制定投放策略，预算规划等；
+2.监控广告数据，定期进行数据分析和总结，不断优化推广效果，对投放结果负责；
+3.能够及时了解广告平台最新动态，并有效探索和优化，向团队输出成果。"
+腾讯云-音视频测试工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月09日,"1.负责腾讯云音视频产品的全流程质量管控工作，包括参与需求分析，帮助完善需求与开发设计实现，合理设计测试计划，实施测试活动，跟进缺陷，协助研发分析定位问题等；
+2.保证被测系统的质量，并通过测试流程和方法创新，提升研发的质量和效率；
+3.参与团队效率提升相关工作，包括但不限于自动化建设，环境维护，测试工具开发等；
+4.注：此岗位为腾讯集团旗下子公司编制岗位。"
+"Game Research & Development Intern, Engine Research 100383",IEG,"洛杉矶
+                  ",技术,更新于2024年04月08日,"Working with scientists to research and develop advanced techniques in the following topics:
+3D geometric learning, 
+Re-meshing and UV optimization,
+Physically-based animation and simulation
+Machine learning for computer graphics
+Motion planning in virtual city
+Character locomotion and control
+realistic image synthesis and real-time rendering techniques
+Researching and developing tools and pipelines to facilitate the use of technologies in the game development environment
+Work Location: US-Irvine | US-Los Angeles | US-Palo Alto"
+"Game Research & Development Intern, Engine Research 102577",IEG,"贝尔维尤
+                  ",技术,更新于2024年04月08日,"Job DescriptionWorking with scientists to research and develop advanced techniques in the following topics:
+3D geometric learning, 
+Re-meshing and UV optimization,
+Physically-based animation and simulation
+Machine learning for computer graphics
+Motion planning in virtual city
+Character locomotion and control
+realistic image synthesis and real-time rendering techniques
+Researching and developing tools and pipelines to facilitate the use of technologies in the game development environment
+Work Location: US-Los Angeles | US-Bellevue-108th Ave | US-Palo Alto"
+Senior Data Scientist 103597,IEG,"新加坡
+                  ",更新于2024年07月04日,更新于2024年07月04日,"About Tencent: 
+Tencent Games was established in 2003. We are a leading global platform for game development, operations and publishing, and the largest online game community in China.
+Tencent Games has developed and operated over 140 games. We provide cross-platform interactive entertainment experience for more than 800 million users in over 200 countries and regions around the world. Honor of Kings, PUBG MOBILE, and League of Legends, are some of our most popular titles around the world.
+Meanwhile, we actively promote the development of esports industry, work with global partners to build an open, collaborative and symbiotic industrial ecology, and create high-quality digital life experiences for players.
+
+About Level Infinite:
+Level Infinite is Tencent’s global gaming brand. It is a global game publisher offering a comprehensive network of services for games, development teams, and studios around the world.
+We are dedicated to delivering engaging and original gaming experiences to a worldwide audience, whenever and wherever they choose to play while building a community that fosters inclusivity, connection, and accessibility. Level Infinite also provides a wide range of services and resources to our network of developers and partner studios around the world to help them unlock the true potential of their games.
+
+Description:
+1. We are hiring senior data scientist for the applied machine learning and growth DS team. 
+2. Join our team to build AI bots in games using reinforcement learning. 
+3. Support the production of scalable and optimised AIService for AI bots. 
+4. Run experiments to test the performance of deployed models, and identifies and resolves bugs that arise in the process. 
+5. Research new approaches to improve the performance.
+Work Location: Singapore-CapitaSpring"
+微信视频号-后台开发工程师,WXG,"广州
+                  ",技术,更新于2024年11月25日,"1.负责视频号推荐的产品和算法需求，涵盖线上推荐策略开发、模型特征开发、数据与画像开发等工作；
+2.负责视频号推荐后台的架构优化，以降低请求延迟和计算成本，进而提升推荐效果；
+3.负责开发和维护视频号推荐后台组件，以支持短视频推荐、直播推荐、红点推荐、订阅号场景视频推荐等多元化业务。"
+腾讯地图地理平台-地图后台开发工程师,腾讯云智研发子公司,"武汉
+                  ",技术,更新于2024年10月16日,"1.负责腾讯地图地理平台的后台开发工作，包括但不限于数据处理、系统架构设计和优化；
+2.参与地图服务的性能监控和调优，确保服务的稳定性和高效性；
+3.与团队成员紧密合作，共同推进地图平台的技术创新和功能迭代；
+4.注：此岗位为腾讯集团旗下子公司编制岗位。"
+系统测试工程师-云产品后台服务,TEG,"深圳
+                  ",技术,更新于2024年12月23日,"1.负责腾讯云各类产品后台服务（CDN、边缘云、视频等）的功能、性能测试；
+2.负责项目产品的自动化测试用例编写和维护；
+3.负责产品的系统测试建设（包括CI/自动化/专项）。"
+公交导航研发工程师,腾讯云智研发子公司,"武汉
+                  ",技术,更新于2024年12月20日,"1.负责腾讯地图公交导航路线召回排序、eta预估等相关线上服务的开发以及策略算法迭代。通过新技术落地，不断提升产品用户体验；
+2.基于轨迹大数据挖掘方式，持续提升实时公交数据准确和覆盖；
+3.结合实际的业务场景，进行算法落地，实现团队技术和业务的共同发展。"
+机器学习平台研发工程师-训练加速-广告模型平台,TEG,"北京
+                  ",技术,更新于2024年12月19日,"1.负责构建面向腾讯广告业务的机器学习平台；
+2.优化GPU训练平台的训练性能，打造高吞吐高性能的训练系统；
+3.优化GPU训练框架，提高训练平台易用性。"
+Data Scientist,WXG,"新加坡
+                  ",更新于2024年10月20日,更新于2024年10月20日,"Analyse behavioural trends to identify malicious activities and detect anomalies in the WeChat ecosystem via data analysis and machine learning
+Devise appropriate strategies to track fraudulent accounts and protect users from spam or fraudulent activity
+Deploy and maintain machine learned models to help detect malicious accounts
+Work Location: Singapore-CapitaSky"
+AI工程架构师,TEG,"深圳
+                  ",技术,更新于2024年12月16日,"1.负责公司整体AI平台架构设计和AI工程化技术规划；
+2.通过AI基础设施和软硬件协同优化来提升公司大模型训练和推理的效率；
+3.负责前沿异构计算芯片、大模型推理优化、大规模训练的技术演进跟踪和落地。"
+支付风险管理,CDG,"深圳
+                  ",战略与投资,更新于2024年12月08日,"1.负责支付风险的分析、识别、评估与管控；
+2.结合监管要求与业务实际情况，数据与科技驱动设计相关能力、系统、机制，最大限度降低风险敞口。"
+Data Scientist 103891,IEG,"帕罗奥多
+                  ",更新于2024年08月14日,更新于2024年08月14日,"1. Collecting, analyzing, and interpreting data to provide data-driven insights and solutions to business problems in the gaming industry, including various decision-making scenarios under R&D, marketing and operation stages.
+2. Developing scalable, efficient, and automated processes for data analysis, machine-learning model development, model validation, and serving.
+3. Collaborating with data product managers and data engineers to design and implement end-to-end solutions in game production, publishing, and live-ops.
+4. Researching new machine learning approaches, such as AIGC-related technologies, and exploring their potential applications in the gaming industry.
+Work Location: US-Palo Alto"
+腾讯云-商机增长经理,CSIG,"深圳
+                  ",销售、服务与支持,更新于2024年11月12日,"1.负责所属部门商机挖掘的工作，对商机数量、质量、转化效率等指标负责；
+2.结合云计算To B业务特点、中小企业客户特征，建立并优化客户画像指标体系；
+3.整合和拉通内外部多方数据，以及交易过程数据，进行线索、商机挖掘和清洗；
+4.提供用户与场景交叉数据支持，产出有效策略，制定并优化销售干预管理的策略。"
+魔方工作室-绑定动画TA（3dMax）,IEG,"深圳
+                  ",设计,更新于2024年12月25日,"1.负责绑定效果的标杆方案实现，与动画部门紧密合作，确保达到预期效果；
+2.负责3dmax中绑定功能的开发，包括但不限于表情绑定系统、关节修型系统等；
+3.开发3dmax中的动画流程工具，旨在提升动画师和绑定师的工作效率；
+4.将Maya中现有的绑定工具和动画工具在3dmax中进行复现和优化。"
+大数据-#后端研发工程师#-在线服务,PCG,"北京
+                  ",技术,更新于2024年12月18日,"1.负责海量大数据的采集、传输、存储及应用平台的建设与维护；
+2.参与实时任务系统的质量监控体系建设，确保数据处理的准确性与高效性；
+3.持续优化数据服务的高可用架构，提升关键服务和基础设施的稳定性与可用性。"
+CDN业务运维工程师,腾讯云智研发子公司,"长沙
+                  ",技术,更新于2024年12月13日,"1.负责腾讯云CDN平台日常运维，确保平台在各种客户场景中的稳定运行，推动问题解决方案落地；
+2.通过研发自动化、智能化、数据化的工具或系统平台提升运维团队的工作效率。"
+微信视频号-推荐系统后台开发工程师,WXG,"北京
+                  ",技术,更新于2024年12月13日,"1.主要负责微信视频号及视频号体系下其他推荐业务的推荐后台开发(含模型和策略接入、推荐服务开发)，样本和特征开发等；
+2.负责推荐数据流和特征相关需求开发，以及对应后台框架的设计开发；
+3.有较好的解决业务实际问题的能力。"
+WeChat Tech Intern (Data Scientist - Safety Strategies) 103966,WXG,"新加坡
+                  ",更新于2024年08月22日,更新于2024年08月22日,"What you will be doing:
+Analyse behavioural trends to identify malicious activities and detect anomalies in the WeChat ecosystem via data analysis and machine learning
+Devise appropriate strategies to track fraudulent accounts and protect users from spam or fraudulent activity
+Deploy and maintain machine learned models to help detect malicious accounts
+Work Location: Singapore-CapitaSky"
+芯片原型验证工程师,TEG,"上海
+                  ",技术,更新于2024年12月07日,"1.负责芯片的验证策略、验证方案的分析及输出，完成验证用例的开发及执行；；
+2.负责芯片的回片验证、产品化导入测试及上线支撑；；
+3.参与原型验证平台的设计与开发，持续提升芯片原型验证的质量和效率；。"
+微信-移动端测试开发工程师,WXG,"广州
+                  ",技术,更新于2024年12月05日,"1.负责测试微信移动端，构建测试体系；
+2.设计具有高扩展性、强可靠性、高性能的测试框架/工具；
+3.帮助提升研发效能，缩短需求交付周期，推动内建的产品质量；
+4.通过具体的实践和思考，进行质量/效能方案的创新。"
+Data Scientist 103890,IEG,"阿姆斯特丹
+                  ",更新于2024年08月14日,更新于2024年08月14日,"● We are hiring a senior data scientist for the machine learning and advanced analytics DS team.
+
+● Apply machine learning and advanced analytic methods to solve challenging problems and deliver scalable game solutions in development, publishing, and live operations.
+
+● Establish scalable, efficient, automated processes and provide end-to-end data solutions with large-scale data analysis, experimentation, machine learning/deep learning/reinforcement learning model development, validation, and serving.
+
+● Interact cross-functionally with various teams and provide actionable business insights for stakeholders.
+Work Location: Netherlands-Amsterdam | Singapore-CapitaSky"
+微信视频号-直播推荐高级/专家算法工程师-商业交易,WXG,"深圳
+                  ",技术,更新于2024年12月02日,"1.负责视频号直播商业交易推荐，对召回、粗排、精排、策略等链路进行优化；
+2.结合业务的实际特点将工业界、学术界的前沿技术落地提升业务效果；
+3.分析用户和作者行为模式，制定算法策略促进生态良性发展。"
+腾讯广告-搜索广告数据开发工程师-深圳,CDG,"深圳
+                  ",技术,更新于2024年11月29日,"1.负责搜一搜与QQ浏览器搜索广告的数据流架构，基础数据维护、指标体系、诊断体系建设的相关工作；
+2.负责搜一搜与QQ浏览器搜索广告的数据清洗、报表开发、数据分析、问题排查工作；
+3.负责通过开发数据工具、优化数据流程来提升团队的协作效率，从数据分析中找出业务可优化空间，为业务提供运营改进建议。"
+微信视频号-后台开发高级工程师,WXG,"广州
+                  ",技术,更新于2024年11月25日,"1.负责视频号推荐的产品和算法需求，涵盖线上推荐策略开发、模型特征开发、数据与画像开发等关键任务；
+2.致力于视频号推荐后台的架构优化工作，旨在降低请求延迟和计算成本，进而显著提升推荐效果；
+3.负责开发和维护视频号推荐后台组件，以支持短视频推荐、直播推荐、红点推荐、订阅号场景视频推荐等多元化业务需求。"
+NLP Research Intern 104493,IEG,"伦敦
+                  ",更新于2024年11月15日,更新于2024年11月15日,"1. Drive and contribute to cutting-edge research projects in NLP/ML.
+2. Develop benchmarks and baselines using publicly available datasets.
+3. Train large language models (LLMs) on innovative, practical tasks.
+4. Publish research findings at leading NLP/ML/AI conferences and in top journals.
+Work Location: UK-London"
+CSIG质量部-腾讯云网络高级测试工程师-专项技术测试,CSIG,"深圳
+                  ",技术,更新于2024年12月23日,"1.如果你是网络大牛，热衷于专研云网络技术的奥秘；亦或是有技术热情的潜力派，希望揭开云网络的神秘面纱，那么欢迎加入腾讯云网络测试团队，我们致力于腾讯云IAAS层云网络的质量保障工作，为腾讯云提供强大、稳定的网络通讯服务，支撑云上海量业务；
+2.在这里，你可以深入接触相关腾讯云网络产品，类如：私有网络、负载均衡、自定义防火墙、专线网络和NAT网关等；
+3.在这里，你还可以深入运用并学习相关Overlay网络技术，类如：Vxlan、GRE、L2/L3网络协议、IPSec、NAT原理、OSPF、BGP等；
+4.在这里，你还可以深入接触Linux下前沿网络流量转发技术，类如：DPDK、OVS、智能网卡、FPGA和P4等；
+5.在这里，你还可以深度参与腾讯云DevOps流程建设与相关运营工作，并且可以参与设计优化自动化测试框架进行相关自动化测试工作；
+6.赶快加入我们，与业内最优秀的同事并肩，成为网络测试大牛，见证云网络技术的发展，创造业务的一个个里程碑；
+7.负责腾讯云产品需求和架构分析，测试设计和测试开发工作，包括IaaS层如计算、网络和虚拟化等，包括但不限于功能测试，性能测试，可靠性测试，高可用测试，混沌测试，稳定性测试，用户体验等系统测试工作；
+8.对测试方案进行有效的落地和执行，以确保项目进度和质量，形成自动化测试用例并进一步形成服务化提升效率；
+9.架构并实现IaaS层如网络、虚拟化等产品自动化测试平台，提升产品测试和交付能力；
+10.不断提升测试过程、方法和技术，构建质量评估标准，优化改进措施，提升产品质量和效率；
+11.设计、构建并落地各产品自动化构建、测试和发布的工程基础设施和流程优化。"
+UE4技术美术,IEG,"上海
+                  ",设计,更新于2024年12月22日,"1.在有限性能预算下，可以编写具有竞争力的艺术表现的材质shader，满足艺术设计和商业化需求；
+2.对unreal引擎的材质扩展，可以架构高效的材质框架；
+3.参与美术pipeline开发，例如：SD、SP、资产检查、批处理、lookdev等工具的开发；
+4.参与渲染管线的改造与最优化实践，渲染性能的优化等。"
+文档解析高级算法工程师,TEG,"深圳
+                  ",技术,更新于2024年12月07日,"1.负责开发和优化用于大规模文档解析的算法和工具 ；
+2.与团队合作，设计和实施高效的解析算法，以提取公式、表格和其他相关信息；
+3.负责评估和改进现有的解析方法，以确保最佳的性能和准确性。"
+大数据运维工程师,TEG,"深圳
+                  ",技术,更新于2024年12月03日,"1.负责腾讯大数据平台运维工作，通过设计、开发运维平台，解决运营过程中质量和效率问题；
+2.负责梳理现有服务流程、规范和存在的问题，并给出可行方案；
+3.负责前后端运营效率工具开发，包括但不限于：容量管理平台、DevOps、覆盖率、自动化、健康度等。"
+数据科学Data Scientist-代码智能,TEG,"深圳
+                  ",技术,更新于2024年11月29日,"1.负责腾讯 AI 大模型应用产品、模型数据分析；
+2.负责AI产品数据体系建设，数据驱动大模型产品优化、迭代；
+3.深入项目，参与大模型产品迭代数据飞轮，提升大模型产品用户体验。"
+微信-后台开发工程师,WXG,"北京
+                  ",技术,更新于2024年11月05日,"1.主要负责微信视频号长视频业务的推荐后台开发(含模型和策略接入、推荐服务开发)，样本和特征开发等；
+2.负责推荐数据流和特征相关需求开发，以及对应后台框架的设计开发。"
+#推荐算法工程师(北京)#,PCG,"北京
+                  ",技术,更新于2024年11月01日,1.负责中台推荐系统(TRS)算法的建设和推广应用，主要包括系统中的召回算法、排序模型、大模型在推荐领域的应用等的技术创新和推广应用工作。
+后台开发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月23日,"1.负责数据安全相关系统的设计、开发和维护，保证系统的高可用性和稳定性；
+2.负责AI相关数据处理和AI应用研发工作；
+3.负责后台系统研效提升相关工作，协调并提升团队研发效率、质量。"
+腾讯云-售后SRE高级工程师,CSIG,"北京
+                  ",技术,更新于2024年12月21日,"1.负责腾讯云客户方面的SRE保障工作，为客户提供容灾高可用，业务部署优化，架构优化，成本优化等方面的专家服务；
+2.业务部署架构梳理与优化，通过云产品自身提供的高可用能力或者业界主流的容灾思路，为客户提供容灾高可用优化方案的设计与落地；
+3.通过混沌工程等手段，设计并实施客户业务层面的容灾演练方案与验证；
+4.对常见的互联网IT故障，设计应急预案，帮助客户实现自动化逃生能力；
+5.通过产品化，工具化的思路，提升工作与客户相关体验的效率。"
+《荒野起源》-商业化运营,IEG,"上海
+                  ",产品,更新于2024年12月19日,"1.负责商业化相关的系统功能设计、开发及迭代运营，包括已有体验的迭代升级、新的商业化玩法体验探索等；
+2.积极关注市场动态、社区用户反馈等，思考并洞察到真实的用户诉求，为新的商业化体验拓展建立数据支撑；
+3.不定期输出商业化分析报告。"
+混元大模型量化压缩高级算法工程师（深圳/北京）,TEG,"深圳
+                  ",技术,更新于2024年10月25日,"1.参与LLM、多模态大模型压缩加速方案研究，包括投机采样、稀疏化、量化和蒸馏等方法；
+2.设计可落地的大模型压缩算法及成本优化方案，助力大模型的性能加速；
+3.分析业务性能瓶颈和模型特点，定制化开发大模型压缩优化工具，实现高速推理方案。"
+腾讯广告-数据科学家,CDG,"深圳
+                  ",技术,更新于2024年12月13日,"1.研究和设计广告业务A/B testing的统计模型和算法 ；
+2.迭代A/B testing的平台功能，提高平台的易用性、丰富性和准确性 ；
+3.基于业务洞察，科学地设计实验并进行实验评估，根据评估结论提出业务策略的优化方向。"
+腾讯广告-数据科学家,CDG,"上海
+                  ",技术,更新于2024年12月13日,"1.研究和设计广告业务A/B testing的统计模型和算法 ；
+2.迭代A/B testing的平台功能，提高平台的易用性、丰富性和准确性 ；
+3.基于业务洞察，科学地设计实验并进行实验评估，根据评估结论提出业务策略的优化方向。"
+腾讯广告-数据挖掘算法工程师,CDG,"深圳
+                  ",技术,更新于2024年12月13日,"1.负责腾讯广告内容的深度挖掘与理解，持续发掘高价值用户特征，并确保特征的高质量；
+2.根据具体业务需求，执行大模型的持续训练（CT）、有监督微调（SFT）、偏好学习，以及多模态模型训练，增强模型在特定场景下的理解能力；
+3.利用大模型技术，通过实体挖掘、关系抽取等方法，对海量非结构化文本和多模态数据进行结构化建模，构建精准的用户兴趣图谱。"
+微信支付-信贷后台开发工程师,WXG,"深圳
+                  ",技术,更新于2024年12月13日,"1.基于微信生态，负责 微信分付 等 信贷项目 后台相关的系统方案设计、性能优化、系统可用性建设等研发工作；
+2.负责信贷类金融系统的需求分析、方案设计、技术实现和运营维护；
+3.负责贷款产品的后台架构长期优化，保障金融服务的安全；
+4.参与信贷系统的建设，建模、方案设计、开发、系统可用建设等。 挑战： 金融级支付应用系统的可用性保障及优化； 海量数据后台系统的架构设计及优化。"
+游戏数据分析运营,IEG,"深圳
+                  ",产品,更新于2024年12月10日,"1.负责游戏数据分析体系搭建，如数据打点、上报和经分系统的搭建等，建立关键指标的日常监控机制，搭建各类专项数据分析框架；
+2.负责数据提取工作，在团队内建立高效敏捷的数据共享机制；
+3.负责市场和用户分析，根据游戏定位，进行目标用户分层，预估市场规模和用户空间，并能根据目标用户属性反推游戏设计；
+4.结合已有数据积累建立预估模型，为游戏数据表现以及市场分析提供结果预测；
+5.进行竞品监测，保持对核心竞品和新游的关注，监控关键数据表现，为游戏提供方向性指导和参考；
+6.处理其他各模块数据需求。"
+腾讯云海外直播产品技术架构师（北京/上海/深圳）,CSIG,"深圳
+                  ",产品,更新于2024年12月10日,"1.深入理解产品，参与海外直播及低延时直播平台建设，包括且不限于产品功能完善、平台架构优化、系统成本优化、直播稳定性优化等等；
+2.构建平台产品功能运营体系，及时响应和解决客户直播技术事件问题。并从日常运营中不断完善直播平台能力，提升平台竞争力；
+3.负责客户需求方案评估和模块功能开发，确保技术架构的合理性以及功能模块可靠性；
+4.关注和了解直播平台相关特性，包括且不限于直播协议、直播解决方案、编码协议、CDN技术等等，保持团队以及产品对直播技术的更新。"
+腾讯云直播产品技术架构师,CSIG,"上海
+                  ",产品,更新于2024年12月10日,"1.深入理解产品，参与直播及媒体处理平台建设，包括且不限于产品功能完善、平台架构优化、系统成本优化、直播稳定性优化等等；
+2.构建平台产品功能运营体系，及时响应和解决客户直播技术事件问题。并从日常运营中不断完善直播平台能力，提升平台竞争力；
+3.负责客户需求方案评估和模块功能开发，确保技术架构的合理性以及功能模块可靠性；
+4.关注和了解直播平台相关特性，包括且不限于直播协议、直播解决方案、编码协议、CDN技术等等，保持团队以及产品对直播技术的更新；
+5.负责直播&音视频相关商机挖取，主动push商机到行业进行闭环，同时维持客户技术团队的关心，时刻关注客户技术团队的进展和计划。"
+AML and Sanctions Compliance Analytics Manager,S1,"中国香港
+                  ",战略与投资,更新于2024年12月07日,"1.Utilize data analytics and model development capabilities to drive the future AML/sanctions compliance risk analysis and visualization.
+2.Collect and consolidate AML/sanctions compliance data.
+3.Develop strong data analytics models and identify emerging AML/sanctions risks.
+4.Conduct in-depth analysis of data and generate user-focused insights.
+5.Create dashboards indicating AML/sanctions risk factors and trends.
+6.Support data model development and validation, UAT and other necessary processes to ensure effective implementation of data analytics solutions.
+7.Provide on-going enhancement and maintenance support for continuous improvement of data reliability and model effectiveness.
+8.Undertake ad-hoc tasks as requested by management."
+微信-视频搜索算法工程师,WXG,"广州
+                  ",技术,更新于2024年12月05日,"1.参与视频搜索全链路优化 (架构/召回/粗排/精排/混排/相关性/体验/生态等)；
+2.探索最前沿的搜索/推荐技术(如大规模流式CTR预估等)；
+3.建设搜索引擎核心能力(如内容建设、电商承接、功能设计等)。"
+3A开放世界-资深客户端开发工程师（构建方向）,IEG,"杭州
+                  ",技术,更新于2024年12月03日,"1.负责游戏构建相关工作，完善构建和发布相关的工作开发；
+2.游戏的启动器、patch系统开发；
+3.资源规范等相关检查工具开发；
+4.基于UE引擎进行美术需求相关插件、编辑器开发。"
+微信视频号-后台高级开发工程师-推荐方向,WXG,"深圳
+                  ",技术,更新于2024年12月02日,"1.负责微信视频号推荐后台开发的需求实现，包括模型和策略的接入，重点关注视频号入口的直播推荐；
+2.针对直播业务的特性，优化推荐链路，使得各链路能够支持更大规模的候选；
+3.参与特征处理和接入工作，持续优化特征更新及在线服务链路。"
+PCDN运维工程师,腾讯云智研发子公司,"长沙
+                  ",技术,更新于2024年12月02日,"1.负责腾讯云PCDN平台日常运维，确保平台在各种客户场景中的稳定运行，推动问题解决方案落地；
+2.通过研发自动化、智能化、数据化的工具或系统平台提升运维团队的工作效率。"
+大数据后台高级开发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月02日,"1.负责大数据治理开发平台的系统研发工作；
+2.负责数据开发系统的架构设计、开发、Code Review、测试、灰度、发布上线等研发工作，保证系统的稳定和敏捷迭代；
+3.与产品经理、数据分析师等相关团队紧密协作，推动项目的顺利进行；
+4.优化现有系统，提高数据处理能力和使用效率，为公司业务提供有力支持。"
+《王者荣耀》-资深技术策划,IEG,"成都
+                  ",产品,更新于2024年12月26日,"1.玩法制作，包括不限于框架搭建，蓝图逻辑，AI功能，界面布局逻辑制作；
+2.着眼未来项目发展方向，探寻策划日常工作痛点，推动相关程序/策划/PM，优化现有管线；
+3.主导维护特定管线；
+4.协助策划与其他职能沟通和设计需求的解决方案。"
+腾讯云AI代码助手-后台高级开发工程师,CSIG,"深圳
+                  ",技术,更新于2024年12月23日,"1.设计、开发和维护AI代码助手平台的核心后台服务；参与系统架构设计和优化，提升系统性能、可靠性和可扩展性；
+2.编写高质量、可维护的代码，并进行单元测试和集成测试；
+3.与产品经理、前端工程师和算法工程师紧密合作，确保产品功能的顺利实现；
+4.研究和应用新的技术和工具，不断提升团队的技术水平；
+5.定位和解决客户在使用过程中遇到的技术问题。"
+腾讯广告-数据开发工程师-深圳,CDG,"深圳
+                  ",技术,更新于2024年11月01日,"1.负责品牌发现、增长联盟以及广告互选的大数据开发与维护工作，协助构建数据模型和业务指标体系，形成对业务经营健康度的全方面度量，实现业务的数据产品化；
+2.参与相关系统数据架构的设计和开发，解决实时化/高可用/快速迭代/易诊断等挑战，持续升级计算存储架构，更好地支撑业务行业化发展。"
+腾讯云 AI 代码助手-产品经理,腾讯云智研发子公司,"西安
+                  ",产品,更新于2024年12月22日,"1.与工程团队紧密合作，定义、设计并推动实施AI代码助手产品的功能和改进；
+2.与客户和用户进行有效沟通，理解并转化他们的需求为产品需求；
+3.制定并维护产品路线图，确保产品的持续迭代和优化；
+4.对市场趋势和竞争对手进行持续跟踪，指导产品策略和决策；
+5.与市场和销售团队合作，制定并执行有效的产品营销策略；
+6.通过数据驱动的方法，跟踪和分析产品性能，确保产品目标的达成；
+7.备注：该岗位为腾讯子公司编制。"
+游戏研发效能工程师,IEG,"深圳
+                  ",技术,更新于2024年12月22日,"1.搭建工业化开发体系，制作和优化工具保障工程持续可交付，指导项目组进行相关优化；
+2.优化工具和引擎底层，提升执行效率与稳定性；
+3.制定团队开发效率可量化的标准，持续探索效率提升的痛点和解决方案；
+4.编写脚本，制作CI及研效工具的自动化流程。"
+搜索广告算法工程师,CDG,"北京
+                  ",技术,更新于2024年10月31日,"1.负责搜索广告的智能创意（标题、图片、视频等），包括自动化的创意生产、创意与查询词/广告的匹配等方向；
+2.负责大模型在搜索广告的场景落地，不断提升广告变现效率和用户体验，包括但不限于基于大模型的文案生成、图片生成、视频生成等。"
+腾讯云-运维工程师,CSIG,"深圳
+                  ",技术,更新于2024年12月20日,"1.负责数据中心服务器整机硬件进场压测测试；
+2.负责服务器硬件压测中故障分析识别服务器产品质量风险；
+3.研究测试工具开发测试方案，提升测试拦截率。"
+Senior Fullstack Web Developer,WXG,"新加坡
+                  ",更新于2024年10月29日,更新于2024年10月29日,"Job Responsibilities:
+Responsible for maintaining and ensuring the stability and performance of WeChat's backend services (including massive data storage and message queue systems for friends, videos, etc.), while supporting the business group with distributed storage frameworks and related team components ensuring smooth user and internal interactions with backend systems.
+Participate in the design and optimization of WeChat's distributed storage solutions, addressing key challenges in scalability, high availability, and disaster recovery.
+Ensure that storage systems operate with low latency and high reliability, implementing best practices using distributed consensus protocols like Paxos/Raft, and performing root cause analysis for system faults.
+Focus on the architecture and optimization of backend storage services, ensuring seamless integration of storage engines (e.g., LevelDB) into the backend infrastructure, managing performance, and providing detailed insight into key metrics.
+Work Location: Singapore-CapitaSky"
+《王者荣耀》服务器高级开发工程师,IEG,"成都
+                  ",技术,更新于2024年12月18日,"1.负责游戏服务器端设计和开发工作；
+2.负责服务器端逻辑功能的编写；
+3.负责服务器端的架构设计与搭建与性能优化；
+4.负责服务器相关工具的开发和维护。"
+机器学习平台高级开发工程师-广告,TEG,"北京
+                  ",技术,更新于2024年12月17日,"1.负责广告业务MLOps平台的设计与开发，包括特征平台、训练和推理平台等；
+2.易用性优化，持续提升平台易用性，降低广告业务机器学习的应用门槛；
+3.研究和跟进业界领先的开发模式以及系统架构，并在项目内应用和推广。"
+渠道数据分析师（游戏发行）,IEG,"深圳
+                  ",产品,更新于2024年12月11日,"1.负责移动游戏渠道的数据体系搭建及分析工作，包括但不限于数据打点、收集、整理、清洗和可视化呈现；
+2.与产品及运营团队协作，深入理解游戏玩法和市场动态，为游戏的发行提供数据支持；
+3.对于渠道运营策略，通过数据分析发现渠道优势和不足，提出改进方案；
+4.与各团队紧密合作，确保渠道数据的准确性和及时性，为业务决策提供有力依据；
+5.定期出具渠道数据分析、竞品监测报告，总结分析结果，提出针对性的优化建议，帮助提升游戏的市场表现和用户满意度。"
+腾讯广告-策略算法工程师,CDG,"北京
+                  ",技术,更新于2024年12月10日,1.基于内外部数据，运用统计学、机器学习、计算广告等多个领域知识，洞察行业业务特点，研发短剧、小游戏、社交、视频等泛网服行业算法策略，包括但不限于设计和实现行业深度模型、行业大客户建模、oCPx出价策略等，通过召回/粗排/精排全链路优化提升行业效果和收入。
+腾讯广告-策略算法工程师,CDG,"北京
+                  ",技术,更新于2024年12月10日,"1.基于内外部数据，运用机器学习、计算广告等多个领域知识，对oCPA广告成本达成率、起量等多个关键指标进行分析和定位；
+2.研发行业策略算法，包括不限于设计和实现广告起量策略、分行业出价及达成率优化、行业深度转化率模型等，进行召回/粗排/精排全链路优化，提升行业效果和收入；
+3.针对广告效果相关问题，输出全链路策略解决方案并落地相关策略工具；
+4.积极跟进AI学术界和业界的最新动态，优化内部技术方案，不断推进广告算法设计升级。"
+游戏运营（数据分析方向）-PUBG Mobile 拉美区域,IEG,"深圳
+                  ",更新于2024年10月15日,更新于2024年10月15日,"工作职责
+1、建立关键指标的日常监控机制，监控日常游戏数据，定期输出相关结论和报告；
+2、负责项目各类型数据收集及整理，进行深入分析，发现问题，识别趋势；
+3、从数据角度帮助制定和优化运营策略，包括活动策划、用户留存、付费转化等；
+4、以数据为驱动，参与拉美区域其他核心游戏运营核心模块。
+Work Location: China-Shenzhen"
+Senior Site Reliability Engineer,WXG,"新加坡
+                  ",技术,更新于2024年12月04日,"Ensure site reliability by managing the deploy, scaling, and maintanence of new and existing online services that connect over a billion users around the world
+Leverage your engineering skills while working directly with developers in order to help test and diagnose issues with newly deployed services, infrastructure resources, or code before and after they reach the production environment
+Manage high severity incidents and incidents impacting end users by focusing on service monitoring, alerts, and rapid recovery
+Use stress testing to help measure, tune, and optimize system performance and reliability for a wide variety of services
+Develop and maintain automation tools/systems to help eliminate repetitive manual operations and ensure better site reliability
+Produce and maintain documentation and standard operating procedures (SOPs) to more efficiently and reliably handle regular operations in conjunction with colleagues around the world
+Work Location: Singapore-CapitaSky"
+《使命召唤手游》服务器开发工程师,IEG,"深圳
+                  ",技术,更新于2024年12月03日,"1.负责服务器端开发工作，包括常规的功能逻辑开发，底层系统优化及维护，全球同服IDC调优及运维；
+2.关注现网运营质量，并参与现网问题的定位和修复工作，保障服务器运行稳定；
+3.进行数据分析，找出性能瓶颈并优化，同时也能通过数据分析建模学习等解决项目遇到的实际问题，如反作弊数据模型开发；
+4.与策划，客户端，美术等岗位同事保持良好沟通，准确理解高效完成需求落地调试及发布；
+5.参与到大版本发布，及日常版本的发布工作中。"
+金融科技-风险模型专家,CDG,"深圳
+                  ",技术,更新于2024年12月02日,"1.作为技术带头人负责跨团队大型项目的技术方案设计和研发；
+2.跟进业界先进的模型算法趋势和应用，评估价值并探索在团队内部场景落地；
+3.制定团队AI能力发展蓝图和计划，包括不限于技能培训、考试和梯队培养等；
+4.负责外部技术资源的对接和引入，包括不限于高校合作、内外部技术交流等。"
+腾讯地图-数据挖掘算法工程师 ,CSIG,"北京
+                  ",技术,更新于2024年11月29日,"1.负责地图车线匹配、实时公交eta、公交线路排序等相关算法研究及优化；
+2.负责时序数据的挖掘算法研究及优化；
+3.跟踪业界机器学习、数据挖掘等方向前沿算法，并推动在项目中落地。"
+混元大模型数据算法工程师,TEG,"深圳
+                  ",技术,更新于2024年11月29日,"1.负责开发和优化文档结构识别算法，解析海量不同格式的文档并提取出结构信息和内容，进行结构化处理；
+2.研究和应用NLP、CV、机器学习等技术，提高文档内容提取与解析的准确性和效率，解决多语言、多格式和复杂结构(如表格、公式)的文档处理问题；
+3.持续关注行业动态和最新技术，保持对相关领域的专业知识和技能的更新。"
+腾讯云音频高级算法工程师,CSIG,"深圳
+                  ",技术,更新于2024年11月20日,"1.负责终端 SDK 方向的音频处理算法的研究和优化工作，为 TRTC、LIVE、UGC 等 SDK 提供音频算法方向的技术支撑；
+2.负责改进音频算法的处理效果和性能表现，包括但不限于音频降噪、回声抑制、声音识别等，使其在业内处于领先地位；
+3.主动学习和跟进业内最新的音频处理技术，并将转化为可以落地的技术成果或音频功能插件。"
+腾讯云-售后服务 AI 化产品经理,CSIG,"深圳
+                  ",技术,更新于2024年11月11日,"1.负责对管理售后服务的培训、质检和客户服务智能化推动，通过服务智能化确保客户满意度；
+2.深入理解腾讯云产品和智能质检产品的功能和应用，将质检 AI 化快速推动落地。"
+AI方向-高级测试开发工程师,CSIG,"北京
+                  ",技术,更新于2024年12月24日,"1.负责腾讯云AI产品质量保障和测试开发相关工作，参与AI产品（Prompt/Chain等）质量体系建设；
+2.牵头推进传统测试与AI融合，探索建设前沿AI测试领域能力（包括但不限于AI测试工具开发、AI自动化体系建设等）；
+3.结合云测试现状，开展AI测试实践，依托AI工程化能力，帮助腾讯云提升研发效能和质量；
+4.参与质量效率相关工具开发，推进研发流程、发布变更等持续改进优化。"
+零信任安全运营工程师-DLP,CSIG,"深圳
+                  ",技术,更新于2024年12月24日,"1.负责建设自研DLP（数据防泄漏）产品的核心审计、检测和阻断能力，保障产品解决方案能够全面和高效保护客户数据安全；
+2.设计和实施DLP产品通道检测范围，识别新数据泄漏途径，提升windows、mac等系统下可监控通道覆盖率；
+3.分析用户行为和安全事件，持续优化在不同通道等监控策略和防护机制，与研发团队合作提升产品策略准确率和响应速度；
+4.应用新技术以完善产品功能，包括检测机制引入机器学习、识别相似文档，监测和记录数据文档生命周期等；
+5.参与产品的需求分析和用户体验设计，提升产品的易用性和满意度，降低客户运营成本；
+6.编写技术文档和培训材料，支持销售和市场团队的方案推广活动。"
+腾讯云-边缘加速测试工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月23日,"1.负责腾讯云paas相关产品(EdgeOne、CDN、边缘计算等)的全流程质量管控工作，包括参与需求分析，帮助完善需求与开发设计实现，合理设计测试计划，实施测试活动，跟进缺陷，协助研发分析定位问题；
+2.负责产品相关的测试方案，测试工具平台设计及实现工作；
+3.保证被测系统的质量，并通过测试流程和方法创新，提升研发的质量和效率；
+4.注：此岗位为腾讯集团旗下子公司编制岗位。"
+混元高级测试开发工程师（模型）,TEG,"深圳
+                  ",技术,更新于2024年12月20日,"1.根据模型能力进行模型测试建模，输出测试方案、测试策略以及测试标准，指导后续测试用例输出和执行；
+2.分析和总结模型问题和风险，指导模型优化；
+3.抽象和优化模型测试相关流程，并推动测试流程落地；
+4.进行模型测试相关自动化测试能力研究并落地，提升整体人效，降低测试成本。"
+微信支付-金融信贷风控专家,WXG,"深圳
+                  ",技术,更新于2024年12月17日,"1.基于微信支付及相关的海量数据，构建金融信贷业务全生命周期的贷前、贷中、贷后风控模型和策略，为金融业务提供可靠的风控技术服务；
+2.通过业务数据分析，挖掘更多的优质用户群体，通过适当营销、调额和调价等手段，实现金融信贷业务规模的稳步提升；
+3.基于XGB、深度学习和图神经网络等技术，结合微信社交和支付数据，探索金融信贷领域前沿技术的应用。"
+大模型Agentic-算法工程师,CSIG,"深圳
+                  ",技术,更新于2024年12月13日,"1.作为研究者，探索有效的 Agentic Workflow 设计方法，给出具体的实操方法并论证效果；
+2.作为工程师，考虑到 LLM inference 对推理算力的高消耗，设计出合理的前后端交互，前端架构，后端架构，在有限的推理算力下，做出完整的 Agentic Workflow 解决方案。最好是探索一套通用可扩展的 Agentic Workflow 解决方案；
+3.深入了解 “AI辅助软件研发”、“AI辅助设计”、“DevOps工具” 等产品的特点，为这些产品设计 Agentic Workflow 的方案增强一些核心功能点，让 Agentic Workflow 技术产生实用价值。"
+腾讯广告-企微广告服务商合作后台开发工程师(北京),CDG,"深圳
+                  ",技术,更新于2024年12月11日,"1.业务方向：负责挖掘腾讯广告下投放企微广告的优化合作工作；
+2.AMS作为广告官方服务商，为客户提供与广告紧密结合的工具能力，譬如企微链路的数据上报、销售开口赋能，风控等；
+3.通过搭建与企微三方服务商的合作通路，引入第三方服务商为广告的中后链路赋能服务；
+4.岗位具体职责：；
+5.负责腾讯广告下投放企微广告的优化合作工作，落地到自由转化宝产品进行后台开发工作开展，包括方案设计、编码、调试和文档工作；
+6.与团队成员紧密合作，确保项目按时交付并达到高质量标准。持续优化开发流程，提高团队的工作效率。"
+腾讯广告-算法工程师（流量优化）,CDG,"北京
+                  ",技术,更新于2024年12月10日,"1.基于机器学习、深度学习、图算法等技术优化广告算法排序效果，提高产品体验与流量效率；
+2.利用数据、经验和客观规律，改善生态环境，提升运营能力；
+3.探索基于深度学习等技术的应用创新。"
+腾讯云成本数据分析经理,CSIG,"深圳
+                  ",技术,更新于2024年12月09日,"1.负责成本核算体系的建设及优化，和上下游对接，推进核算规则的落地与执行；
+2.负责成本数据的分析与管理，跨部门沟通协调及推动，保证产品业务成本优化方案的执行；
+3.负责成本运营数据相关报表的建设与完善，监控及异动分析， 推动业务增长与成本优化。"
+腾讯地图-引擎后台开发工程师,腾讯云智研发子公司,"武汉
+                  ",技术,更新于2024年12月09日,"1.负责腾讯地图数据编译转换开发，参与设计行业领先的地图应用数据规格；
+2.负责腾讯地图渲染和导航应用对应数据功能开发，参与面向自动驾驶等高精地图及其它轻地图等最新行业解决方案地图功能设计开发；
+3.负责基于腾讯地图数据服务开发，参与地图数据应用过程的大数据平台设计开发；
+4.备注：此岗位为腾讯集团旗下子公司编制岗位。"
+QQ浏览器-平台治理专家（黑灰产方向）  -后台策略安全,PCG,"深圳
+                  ",技术,更新于2024年12月09日,"1.对增长、拉活等业务的黑灰产开展体系化分析及系统性治理，输出结论报告；
+2.深度理解网络黑灰产发展趋势，及时发现风险问题并制定解决方案，推动落地；
+3.熟悉各类黑产治理手段，从多维度制定有效策略防止作弊行为；
+4.与产品、运营、数据、战略等团队紧密合作，帮助优化业务决策过程。"
+混元大模型预训练算法研究员/专家研究员,TEG,"北京
+                  ",技术,更新于2024年12月08日,"1.负责生成式大模型预训练相关的工作，包括但不限于：大规模模型预训练，长文本预训练，线性模型结构探索；
+2.探索与跟进前沿技术，寻求技术突破，推动机器在AIGC能力的提升和突破；
+3.探索高效的模型知识嵌入方法以及模型知识在线学习更新；
+4.探索promptengineering，充分挖掘大模型知识。"
+搜索引擎算法研发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月08日,"1.负责spider系统策略核心技术的研究和开发工作，以及维护和升级；
+2.对互联网资源有浓厚的兴趣，对网站、网页、链接的形态进行深入的研究，探索相应特点和规律；
+3.通过最先进的机器学习模型，设计各种抓取策略和算法，提升spider的覆盖率，时效性，网页更新效果；
+4.基于NLP模型，对网页进行语义理解，包括网页质量打分、分类，低质/无效内容识别等。"
+微信-数据分析师,WXG,"广州
+                  ",技术,更新于2024年12月06日,"1.负责微信及视频号各模块的内容推荐优化和用户增长相关数据科学工作，通过ab实验、因果推断等方法，构建科学严谨的评估体系，对业务收益进行评估，并提出优化建议，推动策略优化带来业务增长；
+2.建立客观完善的微信及视频号各业务归因体系，通过数据分析挖掘业务迭代中存在的机会点，帮助业务洞察局势，高效迭代；
+3.探索统计、机器学习、因果推断等方法论，并推动相关方法在业务落地，产生业务影响力；
+4.与产品，运营，推荐算法等业务方配合，通过严谨的量化方法，对于产品功能，推送和分发策略等的迭代提供优化意见，带来业务的实际提升增长；
+5.有大型互联网公司内容推荐策略分析，驱动策略迭代效果提升经验的候选人优先。"
+代码智能专家,TEG,"深圳
+                  ",技术,更新于2024年11月29日,"1.带领团队、基于AI大模型，构建代码补全、代码CR意见生成、单元测试生成、代码优化等代码领域的研发辅助产品能力；
+2.构建和维护代码数据研制流水线，从不同的代码数据源中提取、转换和加工代码数据，以支持大模型的代码能力的训练；
+3.通过代码大模型的Prompt工程、RAG工程、SFT和DPO等手段，优化模型在特定业务场景的性能。"
+微信输入法-高级后台开发工程师,WXG,"北京
+                  ",技术,更新于2024年11月27日,"1.参与微信输入法核心功能设计、开发及维护，包括但不限于服务性能调优、技术难点攻坚、指标自动化监控、异构大模型调度等；
+2.参与维护后台服务，保证线上稳定性，以及搭建自动化分析系统，提升工程效率；
+3.参与新技术调研以及探索，以及项目特定方向的重点、难点开发工作。"
+自动驾驶实验室-端到端高级算法工程师,CSIG,"北京
+                  ",技术,更新于2024年12月24日,"1.负责开发和优化自动驾驶端到端算法及系统，整合感知、预测、建图、决策等各传统模块，并负责端到端算法模型的车端移植与模块部署；
+2.设计、开发和优化自动驾驶端到端算法，分阶段实现感知端到端、感知预测端到端、感知决策端到端三阶段算法研究；
+3.开发、维护车端基于ROS2通信的端到端自动驾驶工程链路，提升车端识别准召、FPS、资源开销等性能指标；
+4.与团队合作，进行算法性能评估和优化，对接上下游模块，提供满足下游需求的算法输出。"
+存储测试工程师,TEG,"深圳
+                  ",技术,更新于2024年12月18日,"1.负责分布式存储系统测试及测试开发工作；
+2.能够完成测试对象分析、测试用例设计、测试程序开发，并进行缺陷跟踪和软件质量分析；
+3.保证被测系统的质量，并通过流程和方法创新，努力提升研发的质量和效率。"
+存储测试工程师,TEG,"北京
+                  ",技术,更新于2024年12月18日,"1.负责分布式存储系统测试及测试开发工作；
+2.能够完成测试对象分析、测试用例设计、测试程序开发，并进行缺陷跟踪和软件质量分析；
+3.保证被测系统的质量，并通过流程和方法创新，努力提升研发的质量和效率。"
+游戏Agent AI研究员,IEG,"深圳
+                  ",技术,更新于2024年12月13日,"1.负责游戏Agent AI算法的研发，包括但不限于LLM Agent、强化学习、模仿学习；针对具体的游戏场景，开发技术解决方案，以提升AI的性能和玩家体验；
+2.探索如何通过LLM提高Agent AI的拟人性、可交互性、多样性和泛化能力，并在游戏中落地这些技术；
+3.参与设计和搭建用于训练、评估和优化Agent AI的框架，确保Agent AI在不同游戏场景中的表现；
+4.关注最新的AI研究趋势，尤其是大语言模型领域的进展，并将这些研究成果应用到Agent AI研发中。"
+资深游戏测试工程师,IEG,"深圳
+                  ",技术,更新于2024年12月11日,"1.与内部资深专家共事，解决源源不断的技术难题，做行业最前沿的探索研究；
+2.负责移动游戏产品的测试方法论的总结和输出；
+3.负责移动游戏产品的测试指导工作，包括功能、性能、自动化、代码质量等维度；
+4.针对测试行为中的难点和盲区设计合理的的测试方案，引入或开发新的测试方法和测试工具；
+5.负责测试工具及测试平台的规划，开发和分析工作；
+6.研究业界产品测试方法，测试框架，以及自动化测试方向前沿动向；
+7.为产品的质量保证以及合作方的测试能力的提升进行赋能支持。"
+腾讯广告-算法工程师（流量优化）,CDG,"深圳
+                  ",技术,更新于2024年12月10日,"1.基于机器学习、深度学习、图算法等技术优化广告模型算法，提高广告变现效率；
+2.基于对业务的数据洞察和经验分析，发现业务规律，构建策略规则，使广告生态可持续发展。"
+高级游戏测试工程师,IEG,"深圳
+                  ",技术,更新于2024年12月10日,"1.负责游戏核心模块的质量，专注提高版本质量和测试效率；
+2.招募和组建测试团队，完善团队建设和发展，实现团队间的良好合作；
+3.主动发现问题、解决问题。为团队成员提供技术指导和指导，并给予积极的反馈；
+4.分析质量数据和结果以识别项目风险推动项目流程优化，提升测试质量和效率。"
+Senior Site Reliability Engineer,Overseas Functional System,"上海
+                  ",更新于2024年08月27日,更新于2024年08月27日,"Whom we are looking for: 
+A quick learner
+A positive, self-motivated, and passionate person
+Independent, insistent, and open-minded.
+A great team player and both dependable and autonomous.
+Customer-oriented and could work at a very fast pace.
+Work Location: China-Shanghai"
+腾讯云虚拟化测试开发工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月05日,"1.你是Linux大神，热衷于专研Linux内核技术的奥秘；是数码发烧友，沉迷于更新、更强的计算硬件和评测；亦或是有技术热情的潜力派，希望揭开云计算的神秘面纱。欢迎加入腾讯云虚拟化测试团队，我们致力于腾讯云底层虚拟化平台的质量保障工作，为腾讯云提供强大、稳定的算力服务，支撑云上海量业务；
+2.在这里，你可以参与到全新架构的自研服务器以及新架构下的服务器虚拟化技术的研究和探索；
+3.在这里，你可以紧跟DPDK、SPDK、智能网卡等业内领先的软、硬件加速技术的快速发展；
+4.在这里，你可以对全新的Linux内核调度算法进行评估，如何在云计算场景下发挥出硬件的最佳性能；
+5.在这里，你可以第一时间接触到未曾面世的最强GPU和最新的GPU虚拟化技术…；
+6.加入我们，与业内最优秀的同事并肩，成为硬核技术大牛，见证虚拟化技术的发展，创造业务的一个个里程碑；
+7.负责Linux内核、虚拟化、服务器硬件等领域的测试工作；
+8.负责服务器虚拟化硬件平台的测试工作，挖掘虚拟化场景下服务器功能性、兼容性、性能、稳定性等问题；
+9.负责研发能力和效率提升，包括但不限于自动化建设，测试工具开发，环境管理，devops流水线建设等。"
+代码智能高级算法工程师-技术问答与Agent方向,TEG,"深圳
+                  ",技术,更新于2024年11月27日,"1.负责大语言模型在代码开发与研效上下游场景联动智能化的落地应用；
+2.负责借助大语言模型、RAG等技术，提升在企业内部领域知识问答场景下的效果；
+3.负责借助大语言模型、Agent智能体等技术，提升在研发全环节任务场景下的准确性与降低幻觉。"
+游戏数据科学家,IEG,"深圳
+                  ",更新于2024年11月14日,更新于2024年11月14日,"Level Infinite 是腾讯旗下国际游戏业务品牌，致力为全球玩家带来充满乐趣、原汁原味的游戏体验，让玩家随时随地进入游戏世界；并通过打造包容、互通、便捷的玩家社区，促进分享交流。
+
+Level Infinite为合作工作室提供一系列支持及服务，助力其释放产品潜能。
+
+Level Infinite发行产品包括《PUBG
+MOBILE》、《Goddess of Victory: NIKKE 》《Honor of King》等热门游戏，并与合作工作室联手推出了来自Fatshark的《战锤40K：暗潮》、Funcom的《沙丘：觉醒》、Inflexion Studios的《夜莺》在内多款产品。
+
+想进一步了解Level Infinite，请访问www.levelinfinite.com，并在Twitter、Facebook、Instagram和Youtube上关注我们的官方账号。
+ 岗位职责
+1.收集、分析和解读数据，为游戏行业的业务问题提供数据驱动的洞察和解决方案，包括研发、市场营销和运营阶段下的各类分析和建模场景；
+2.基于Python、SQL、大数据工具开发计算工作流，处理并分析大型复杂数据集；利用 Preset/Tableau 等BI工具开发数据报表，为游戏各个阶段的数据洞察和业务分析提供支持；
+3.建模和开发可扩展、高效、自动化的数据分析、AB实验、机器学习、验证和服务框架等；
+4.与产品经理和数据工程师合作，设计并落地研发、发行和运营问题的端到端数据解决方案。
+Work Location: China-Shenzhen"
+腾讯云-大数据高级工程师-数据工程,CSIG,"深圳
+                  ",技术,更新于2024年12月25日,"1.构建和维护腾讯云经营管理的数据仓库，确保平台稳定、可靠、可扩展和及时；
+2.参与大数据项目的技术选型、方案设计、开发实施和维护优化；
+3.与数据产品、数据分析等团队协作，推动数据驱动的产品研发和优化；
+4.对海量业务经营数据进行ETL处理，设计并优化数据模型和数据仓库，提高数据处理效率和准确性；
+5.持续关注大数据领域的发展动态，并不断引入新技术优化和创新技术方案。"
+微信视频号-投放算法工程师,WXG,"广州
+                  ",技术,更新于2024年12月25日,"1.负责微信视频号投放算法的研发；
+2.包含商业化或生态投放目标的召回和精排算法、预算控制算法、出价机制的优化迭代；
+3.结合微信视频号的业务的实际特点，快速进行算法和策略迭代，不断提升投放效率。"
+微信视频号-投放算法工程师,WXG,"北京
+                  ",技术,更新于2024年12月25日,"1.负责微信视频号投放算法的研发；
+2.包含商业化或生态投放目标的召回和精排算法、预算控制算法、出价机制的优化迭代；
+3.结合微信视频号的业务的实际特点，快速进行算法和策略迭代，不断提升投放效率。"
+腾讯游戏内容营销交易平台-数据科学,IEG,"深圳
+                  ",技术,更新于2024年12月24日,"1.负责腾讯游戏内容管理服务平台的数据管理、分析、建模和应用工作；
+2.基于对内容营销和平台数据的理解，能够通过科学的数据分析方法和内容数据的特性，针对产品、运营、研发等各种业务场景进行数据分析、机会发掘、问题诊断等，输出符合业务需求的分析结果，辅助业务决策；
+3.能够针对达人筛选和推荐、内容效果评估、内容理解等能力，梳理和设计指标体系、推进探索性分析、设计数据看板、开发数据模型、追踪衡量指标和评估等数据工作。"
+微信视频号-机器学习平台高级工程师,WXG,"广州
+                  ",技术,更新于2024年11月05日,"1.负责微信视频号短视频推荐、直播推荐、红点推荐、商业化推荐等业务场景的落地，紧贴业务需求，不断优化模型训练和推理的性能；
+2.负责万级别长序列模型、数十TB级超大规模稀疏推荐模型的训练和推理优化，建设业界领先的高性能低成本高实时性推荐模型平台；
+3.积极跟进业界和学术界的最新动态，优化内部技术方案，提升平台性能，不断推进系统架构升级。"
+混元大语言模型算法工程师-大模型推理能力方向-深圳/北京,TEG,"深圳
+                  ",技术,更新于2024年12月23日,"1.负责大语言模型（LLM）规划、推理、反思能力的研究，提升大语言模型的高阶推理能力；
+2.跟进推理领域的前沿技术，将其应用于混元大模型基座，持续提升大模型的推理能力。"
+S2-CSIG风险管理经理,S2,"深圳
+                  ",财务,更新于2024年12月23日,"1.负责对公司业务单位内部控制进行全面分析，评估并提供建议；
+2.负责计划并推动风险管理相关项目，维护风险矩阵及关键控制；
+3.对流程进行梳理，定位关键风险并提供相关风险应对方法；
+4.跟进内部评估项目中待改进项，检测并定期汇报改善情况；
+5.与业务单元的管理层沟通，汇报风险管理情况；
+6.进行风险管理及内控宣导和培训。"
+腾讯游戏数据科学家-UA方向,IEG,"深圳
+                  ",技术,更新于2024年12月20日,"1.负责在腾讯游戏全球用户获取过程中的数据科学与分析工作，提升流量使用效率，提升用户获取效果；
+2.对外面向游戏项目组，发掘业务痛点和增长点，联动内部算法、开发、产品、商务等多团队，共同形成面向客户的有效的用户获取解决方案和优化能力；
+3.关注行业动态，识别和探索海外流量行业、广告生态、游戏业务等领域新方向，输出观点和意见，提升团队综合能力。"
+混元AIGC后台开发工程师（北京）,TEG,"深圳
+                  ",技术,更新于2024年12月20日,"1.AIGC应用的研发：深入理解业界AIGC应用场景，搭建LLM模型的在线推理服务，研发AIGC的C端产品，实现AIGC的商业化落地；
+2.AIGC平台的研发：基于文生文、文生图和文生视频等能力建设AIGC平台，研发第三方插件的接入&管理平台，持续提升服务质量，降低服务成本。"
+混元数据科学分析师（北京）,TEG,"深圳
+                  ",技术,更新于2024年12月19日,"1.负责AB实验设计、数据流构建、波动分析、因果推断等，服务产品功能及策略优化；
+2.负责大模型生态的埋点设计、行为数仓构建、功能及链路分析等，为产品运营提供数据支持及策略指导；
+3.基于统计学习、数据挖掘、推荐算法等技术，挖掘大模型特定投放人群，服务于用户增长；
+4.负责大模型行为数据ETL pipeline搭建和性能优化，保证数据的稳定性和时效性。"
+金融风控模型经理,CSIG,"深圳
+                  ",技术,更新于2024年12月19日,"1.基于海量数据，挖掘并整合风险画像特征，运用逻辑回归、 决策树、 随机森林、 Xgboost、神经网络等算法进行数据建模并完成相关交付文档撰写；
+2.能设计模型开发流程，评估模型有效性，并持续监控与优化模型；
+3.深入理解客户需求，为客户讲解解决方案的细节、分析建模思路、方法、步骤等；
+4.团队内部沟通协作，确保项目执行和交付。"
+AI Agent后台开发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月19日,"1.负责基于LLM的智能体工程架构设计、研发和演进，持续优化AI智能体的优化与落地；
+2.持续探索各场景下利用AI能力增强产品体验，主动思考创新；
+3.关注相关前沿技术，引入新技术和新方案，不断提升产品的表现力和行业竞争力；
+4.主动分析和发掘现有系统的问题，定位系统瓶颈，不断提升服务性能/稳定性/可用性/可扩展性。"
+搜狗输入法-数据科学家(增长分析),PCG,"北京
+                  ",技术,更新于2024年12月17日,"1.负责输入法整体用增方向数据分析体系规划和建设，实现数据驱动用户增长；
+2.利用输入法用户数据、行业竞品发展等，通过数据科学的方法积极寻找提升用户体验的增长点；
+3.面向重点指标建设敏捷异动归因分析体系，辅助业务快速科学决策；
+4.结合输入法业务发展，建立科学增长预测体系，协同业务合理规划增长目标及业务路径；
+5.结合输入法增长目标，通过数据分析挖掘增长机会，推动业务成功。"
+AI编译优化工程师,TEG,"北京
+                  ",技术,更新于2024年12月16日,"1.基于自研芯片，研发高性能图和算子编译器，解决芯片落地过程中编译相关性能、易用性等问题；
+2.探索和研发自动生成算子解决方案，提升生成算子效率；
+3.不断迭代编译器功能、性能和易用性，和业务一起构建AI生态。"
+AI编译优化工程师,TEG,"上海
+                  ",技术,更新于2024年12月16日,"1.基于自研芯片，研发高性能图和算子编译器，解决芯片落地过程中编译相关性能、易用性等问题；
+2.探索和研发自动生成算子解决方案，提升生成算子效率；
+3.不断迭代编译器功能、性能和易用性，和业务一起构建AI生态。"
+智慧零售-业务管理高级经理（流程规则类）,CSIG,"深圳
+                  ",战略与投资,更新于2024年12月16日,"1.在BG规则框架内，负责智慧零售LTC协作流程制定，包括但不限于零售行业赛道管理规范、重大项目管理规则等；
+2.针对部门内业务管理问题进行充分研究，借鉴业界实践经验，在BG框架内搭建适配零售行业的管理规范、管理流程；
+3.负责部门内管理办法、流程、规则的日常运营（如客户行业赛道判定），并在过程中持续发现问题，对管理办法、流程、规则进行迭代完善；
+4.制定完善流程指标监测体系，通过指标监测和数据分析，进一步推动管理举措的落地执行，促成最终解决问题。"
+游戏AI开发工程师（强化学习方向）,IEG,"深圳
+                  ",技术,更新于2024年10月28日,"1.负责游戏AI的算法研究和应用，包括但不限于强化学习、模仿学习等；
+2.负责设计新的强化学习算法，提高强化学习效率和效果，并结合游戏应用场景，提供技术解决方案；
+3.负责前沿技术的探索，推进强化学习在更多业务场景的应用。"
+腾讯广告-策略算法工程师,CDG,"上海
+                  ",技术,更新于2024年12月11日,"1.负责广告全链路模型优化，包括广告召回排序模型、精排模型(pCTR,pCVR,pLTV)等。方向包括长序列行为模型、生成式召回模型、多场景联合建模、多链路辅助建模、LLM结合推荐等先进技术创新突破探索；
+2.基于内外部数据，运用统计学、机器学习、计算广告等多个领域知识，对oCPA广告成本达成率、起量等多个关键指标进行垂直行业的问题分析和定位；
+3.研发行业算法策略，包括但不限于设计和实现广告起量策略、分行业模型校准、行业EE算法等，进行召回/粗排/精排全链路优化，提升行业效果和收入；
+4.负责腾讯广告业务场景的落地，紧贴业务需求出发的技术突破升级；
+5.积极跟进AI学术界和业界的最新动态，优化内部技术方案，不断推进广告算法设计升级。"
+腾讯广告-算法工程师（模型方向）,CDG,"北京
+                  ",技术,更新于2024年12月10日,"1.负责基于海量用户广告行为数据，个性化推荐在广告推荐领域的应用和研究，提高深度目标的推荐效果；
+2.负责广告推荐点击、转化率预估，包括特征选择、算法优化、多目标预估、在线深度学习等多种技术优化；
+3.对现网效果稳定性和问题改进优化，对现网海量请求7*24小时在线预估性能、准确性和稳定性优化。"
+腾讯广告-算法工程师（模型方向）,CDG,"深圳
+                  ",技术,更新于2024年12月10日,"1.负责基于海量用户广告行为数据，个性化推荐在广告推荐领域的应用和研究，提高深度目标的推荐效果；
+2.负责广告推荐点击、转化率预估，包括特征选择、算法优化、多目标预估、在线深度学习等多种技术优化；
+3.对现网效果稳定性和问题改进优化，对现网海量请求7*24小时在线预估性能、准确性和稳定性优化。"
+数字人算法工程师,TEG,"深圳
+                  ",技术,更新于2024年12月10日,"1.设计和训练数字人运营的算法模型，应用于直播电商、知识分享、智能问答等场景，通过深刻洞察业务需求，有效提高用户转化率；
+2.基于多模态输入信息，构建数字人视频生成能力，包含TTS、姿态、脸部控制等，以实现更丰富、更生动的用户体验；
+3.优化现有工程框架，实现数字人模型应用、增量训练、模型调试、自动化评估等内容。"
+《三角洲行动》数值策划（玩法&战斗）,IEG,"深圳
+                  ",产品,更新于2024年12月10日,"1.独立负责游戏的玩法和战斗数值等相关模块的结构设计、建模拟合和配置落地；
+2.体验导向，能够结合建模和测试数据，分析定位并产出清晰的调优方向；
+3.和战斗、系统、关卡等其他策划模块合作，共同推动玩法迭代；
+4.负责对应模块的测试跟进、用户反馈、数据分析以及持续优化工作。"
+云数据系统测试工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月09日,"1.负责腾讯云包括Mysql,Redis,云原生DB等数据库产品的测试工作；
+2.负责分析产品需求，架构，设计测试方法和测试用例；
+3.负责产品功能，性能测试、竞品分析、稳定性，可靠性等专项测试工作；
+4.负责建设产品相关的效能建设包括但不限于流水线，自动化测试以及相关测试工具开发等工作；
+5.不断改进测试过程、方法和技术，提升产品质量；
+6.注：此岗位为腾讯集团旗下子公司编制岗位。"
+微信小店-数据科学,WXG,"广州
+                  ",技术,更新于2024年12月07日,"1.负责商业交易数据的收集、整理与分析，开展产品、运营、推荐等业务策略洞察分析，为业务提供决策支持；
+2.深入理解业务逻辑，通过数据分析挖掘潜在问题，提出优化建议；
+3.与产品团队协作，科学地进行A/B Testing和因果推断，配合业务方不断迭代策略；
+4.跨部门协作，支持各部门的数据需求，提升整体运营效率；
+5.定期输出数据报告，为管理层提供决策依据。"
+微信视频号-内容安全算法工程师,WXG,"广州
+                  ",技术,更新于2024年12月04日,"1.负责持续优化视频号内容安全系统；
+2.负责持续优化机器召回模型，搭建并持续完善安全策略召回链路；
+3.负责挖掘和打击视频号产品各类业务违规(如内容安全问题，行为安全问题，用户安全问题等),为视频号及相关业务发展提供安全保障。"
+CSIG高级经营分析经理,CSIG,"深圳
+                  ",战略与投资,更新于2024年12月03日,"1.业务经营管理规划：梳理BG重大业务经营管理问题，结合当前BG管理导向，明确问题优先级和解决参与方，形成业务经营管理部整体工作规划；
+2.制定管理规范、搭建管理流程：针对部分BG重大业务经营管理问题进行充分研究，寻找根因；借鉴业界实践经验，形成能够在组织内实际执行的解决方法，包括但不限于管理办法、规则、流程；
+3.落地管理举措、持续运营：负责部分管理办法、流程、规则的日常运营，并在运营过程中持续发现问题、持续对管理办法、流程、规则进行完善升级；
+4.建立监测体系、推动解决管理问题：制定完善业务经营管理指标监测体系，通过指标监测和数据分析，进一步推动管理举措的落地执行，促成最终解决问题。"
+混元机器学习平台GPU调度研发工程师(深圳/北京）,TEG,"深圳
+                  ",技术,更新于2024年12月02日,"1.参与腾讯太极统一GPU调度平台开发，负责万卡GPU集群配额管理、任务排队、弹性任务、跨集群等功能和性能优化；
+2.优化异构AI芯片在多种任务作业之间的全局最优匹配，实现全局最佳利用率；
+3.支持腾讯混元大模型、广告、视频号等众多业务场景的离线、在线GPU作业，保障平台高性能高稳定运行。"
+《三角洲行动》-枪战游戏数据分析-营销宣发方向,IEG,"深圳
+                  ",产品,更新于2024年11月29日,"1.负责枪战游戏UA效果分析，支持区域投放策略、素材测试和投放优化的数据分析工作；
+2.协助细化和定位目标用户，并优化目标用户的转化效率；
+3.沟通表达能力优秀，思维缜密，具备跨团队协同能力，主动推进研究转化落地并持续跟进效果的实现。"
+S2-业务风控经理,S2,"深圳
+                  ",财务,更新于2024年11月28日,"1.负责对公司业务单位内部控制进行全面分析，评估并提供建议；
+2.负责计划并推动风险管理相关项目，维护风险矩阵及关键控制；
+3.对流程进行梳理，定位关键风险并提供相关风险应对方法；
+4.跟进内部评估项目中待改进项，检测并定期汇报改善情况；
+5.与业务单元的管理层沟通，汇报风险管理情况；
+6.进行风险管理及内控宣导和培训。"
+多模态算法工程师,TEG,"北京
+                  ",技术,更新于2024年11月27日,"1.负责垂直场景多模态大模型研发，包括图文、视频、音频等多个模态的预训练和SFT训练，探索合成数据在多模态训练上的应用；
+2.负责大模型安全、内容治理、电商等多场景业务的内容理解，包括多模态表征、图文/视频意图理解、相同/相似判断、自动问答等；
+3.负责跟踪和研究大模型前沿问题，并应用于解决实际的业务痛点。"
+多模态算法工程师,TEG,"深圳
+                  ",技术,更新于2024年11月27日,"1.负责垂直场景多模态大模型研发，包括图文、视频、音频等多个模态的预训练和SFT训练，探索合成数据在多模态训练上的应用；
+2.负责大模型安全、内容治理、电商等多场景业务的内容理解，包括多模态表征、图文/视频意图理解、相同/相似判断、自动问答等；
+3.负责跟踪和研究大模型前沿问题，并应用于解决实际的业务痛点。"
+Senior Technical Artist,IEG,"尔湾
+                  ",设计,更新于2024年07月01日,"Welcome to Lightspeed LA, the first U.S.-based, AAA game development studio for Tencent Games. Lightspeed LA is focused on building open-world games that emphasize an ambitious living world, sophisticated player-driven gameplay, and mature, thoughtful storytelling. We are developing the first in a series of genre-defining titles.
+ 
+Why join Lightspeed LA?
+For us, it’s not only about the exciting, new AAA open world game we’re developing but also about team values and studio culture. We foster an open and transparent environment where everyone feels comfortable providing constructive feedback about all aspects of our games.
+We encourage the showing of work that’s still in progress.
+We don’t attack or question unfinished work, we celebrate its promise.
+We have a No Blame Culture where we blame the problem, not the person.
+ 
+This is a safe place to fail, and we don't view failure as a negative, but as the natural result of pushing boundaries and trying new things. We create together. We face Challenges Together. We succeed together.
+ 
+About this position at Lightspeed LA
+This is an exciting opportunity for an experienced and passionate Senior Technical Artist to join our in-house team at Lightspeed LA and contribute to the creation of world-class visuals and technical art solutions for a new and exciting open-world AAA game. We are seeking a dynamic individual who can bring their passion and expertise to the role, collaborating closely with artists, engineers, and other disciplinary teams, to create innovative and efficient workflows and techniques for our game development. Below is an outline of responsibilities and some of the qualities we look for in the ideal teammate.
+
+Responsibilities:
+Spearhead and implement technical solutions for the art team, setting high standards and mentoring junior Technical Artists.
+Collaborate with different teams to facilitate the technical implementation and management of in-house and outsourced assets.
+Drive the development of state-of-the-art visuals that complement and enhance the game design.
+Prototype and author graphics features requiring high technical expertise.
+Develop novel content creation techniques and workflows to enhance efficiency and quality.
+Work closely with the Art, Engineering, and Production departments to meet all dependencies and requirements.
+Support the Art team in debugging tools and game-related issues.
+Optimize the game’s run-time performance and memory consumption.
+Work Location: US-Irvine"
+腾讯云音频算法专家,CSIG,"深圳
+                  ",技术,更新于2024年11月25日,"1.负责音频前端增强算法的效果调优与实现，比如AIAEC、AINS、特定人声增强等算法调优与实现；
+2.负责音频智能理解/智能生成算法的效果调优与实现，比如语音检测、语音识别理解、个性化语音合成等算法调优与实现；
+3.负责跟踪并复现业界最前沿的音频处理方案，并能融合优化当前效果。"
+腾讯云音频算法专家,CSIG,"上海
+                  ",技术,更新于2024年11月25日,"1.负责音频前端增强算法的效果调优与实现，比如AIAEC、AINS、特定人声增强等算法调优与实现；
+2.负责音频智能理解/智能生成算法的效果调优与实现，比如语音检测、语音识别理解、个性化语音合成等算法调优与实现；
+3.负责跟踪并复现业界最前沿的音频处理方案，并能融合优化当前效果。"
+视频号-后台策略安全,WXG,"广州
+                  ",技术,更新于2024年11月05日,"1.负责搭建并持续优化视频号内容安全系统；
+2.负责持续优化机器召回模型，完善安全策略基建；
+3.负责建立机审和人审结合的方式快速发现和打击信息违规问题，为视频号及相关业务发展提供安全保障。"
+Artificial General Intelligence (Audio/Speech/Language Processing and Large Multimodal Model Focus) RESEARCH INTERNSHIP 104312,TEG,"贝尔维尤
+                  ",更新于2024年10月25日,更新于2024年10月25日,"We are seeking artificial general intelligence research interns who are interested in developing novel audio/speech/language processing techniques and large multimodal models for our Seattle area office located at Bellevue WA for the year 2025. Every research intern will work with researchers on a research project aimed at attacking one of the core problems by inventing cutting edge techniques. We encourage discussions and collaborations between researchers and interns. Interns are also encouraged to publish the results from the internship.
+
+Our projects include, but are not limited to, establishing more effective post-training recipe, finding more efficient large model architectures, improving large model reasoning abilities, building safe self-improving models/agents, and developing novel audio/speech processing technique, focusing on both text-only and multimodal scenarios.
+Work Location: US-Bellevue"
+Artificial General Intelligence (Audio/Speech/Language Processing and Large Multimodal Model Focus) RESEARCH INTERNSHIP 104311,TEG,"贝尔维尤
+                  ",更新于2024年10月25日,更新于2024年10月25日,"We are seeking artificial general intelligence research interns who are interested in developing novel audio/speech/language processing techniques and large multimodal models for our Seattle area office located at Bellevue WA for the year 2025. Every research intern will work with researchers on a research project aimed at attacking one of the core problems by inventing cutting edge techniques. We encourage discussions and collaborations between researchers and interns. Interns are also encouraged to publish the results from the internship.
+
+Our projects include, but are not limited to, establishing more effective post-training recipe, finding more efficient large model architectures, improving large model reasoning abilities, building safe self-improving models/agents, and developing novel audio/speech processing technique, focusing on both text-only and multimodal scenarios.
+Work Location: US-Bellevue"
+数据科学家（增长分析方向）,CDG,"深圳
+                  ",技术,更新于2024年10月22日,"1.面向业务增长目标，进行重要假设数据验证，找到增长的关键方向；
+2.设计和建设客群挖掘，智能推荐，时点营销等数据增长能力；
+3.科学地应用AB测试和因果推断，助力业务迭代增长策略。"
+WeChat Tech Intern (Backend Developer) 104010,WXG,"新加坡
+                  ",更新于2024年08月28日,更新于2024年08月28日,"Responsibilities
+Develop innovative IT solutions that drive business impact, leveraging cutting-edge technologies and methods
+Collaborate with Product and Safety teams to deliver robust and secure online services that meet business requirements
+Design and execute plans to improve data compliance, user safety, and service reliability for users worldwide
+Work with partners to define processes and develop internal and external tools for core operations (user ops, safety ops, developer ops, and service reliability)
+Assist other teams in making WeChat features available, safe, and compliant for users globally
+Work Location: Singapore-CapitaSky"
+全球化写实3A动作游戏-高级后台开发工程师,IEG,"深圳
+                  ",更新于2024年10月14日,更新于2024年10月14日,"1.负责游戏后台核心架构设计及开发；
+2.负责游戏基础平台的开发与维护；
+3.负责游戏服务器系统模块设计和开发工作；
+4.对服务器端性能，稳定性，安全性，效能等多方面质量负责。
+Work Location: China-Shenzhen"
+WeChat Tech Intern (Backend Developer) 104009,WXG,"新加坡
+                  ",更新于2024年08月26日,更新于2024年08月26日,"Responsibilities
+Develop innovative IT solutions that drive business impact, leveraging cutting-edge technologies and methods
+Collaborate with Product and Safety teams to deliver robust and secure online services that meet business requirements
+Design and execute plans to improve data compliance, user safety, and service reliability for users worldwide
+Work with partners to define processes and develop internal and external tools for core operations (user ops, safety ops, developer ops, and service reliability)
+Assist other teams in making WeChat features available, safe, and compliant for users globally
+Work Location: Singapore-CapitaSky"
+操作系统安全工程师,TEG,"北京
+                  ",技术,更新于2024年12月26日,"1.负责TencentOS 的威胁情报分析验证、开源组件漏洞的分析工作，并提供漏洞的解决方案和加固建议；
+2.负责漏洞响应处理流程的优化，推进漏洞挖掘、修复、公告发布等环节的效率改善；
+3.负责OS安全领域业界最新核心技术和对抗手法的跟进分析，提升操作系统安全能力和竞争力。"
+搜狗输入法-#数据科学家(增长分析)#,PCG,"北京
+                  ",技术,更新于2024年12月26日,"1.负责输入法用户增长的数据分析工作，通过数据分析、模型建设挖掘增长方向的机会点及优化策略；
+2.主导增长方向的A/B实验和发版效果评估和归因，针对核心指标异动进行深度剖析，并提供切实可行的业务优化建议；
+3.针对业务痛点主动发起并执行专项分析，精准定位可优化或改进的业务环节，并协同业务团队推动方案落地实施。"
+游戏AI-AIGC后台开发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月25日,"1.负责AIGC/LLM后台服务架构、运营体系建设；
+2.负责AIGC领域相关算法的工程化、平台化工作，结合模型算法在各应用场景下完成落地；
+3.参与AIGC/LLM后台工程架构和性能优化工作。"
+微信小店-测试开发工程师,WXG,"广州
+                  ",技术,更新于2024年12月24日,"1.负责微信小店产品质量保障工作，包括日常版本跟进，改进、完善研发测试过程等；
+2.参与设计、完善微信小店测试体系，包括开发相关测试工具和平台，补全测试能力，帮助业务提升测试效率和质量。"
+操作系统安全工程师,TEG,"深圳
+                  ",技术,更新于2024年12月24日,"1.负责TencentOS 的威胁情报分析验证、开源组件漏洞的分析工作，并提供漏洞的解决方案和加固建议；
+2.负责漏洞响应处理流程的优化，推进漏洞挖掘、修复、公告发布等环节的效率改善；
+3.负责OS安全领域业界最新核心技术和对抗手法的跟进分析，提升操作系统安全能力和竞争力。"
+微信广告-数据开发工程师,CDG,"深圳
+                  ",技术,更新于2024年12月23日,"1.负责微信广告分析和增长平台数据指标体系建设；
+2.针对策略、流量等进行系统性分析，提供洞察改进建议，驱动业务增长。"
+互联网网络运营工程师,TEG,"深圳
+                  ",技术,更新于2024年12月23日,"1.负责腾讯互联网网络架构的运营、优化相关工作；
+2.负责网络设备的测试和厂商及运营商沟通合作；
+3.参与网络自动化体系建设，实现网络标准化、工具化、可视化、自动化；
+4.对遇到问题归类分析，提出优化方案，推动运营系统的优化和落地。"
+测试开发工程师,CSIG,"上海
+                  ",技术,更新于2024年12月20日,"1.负责大模型产品在公有云以及私有化交付场景下的测试工作，包括但不限于：模型效果评测、产品工程功能、性能、稳定性以及安全性测试；
+2.管理并执行测试计划，设计测试方案和执行测试用例，进行缺陷跟踪和管理，确保测试覆盖全面，及时发现并报告潜在风险；
+3.与研发、运维团队协作，理解业务需求，为产品高质量顺利交付提供有价值的反馈；
+4.分析整体研发测试流程，定位流程问题，与产品/研发/交付团队协作共同提升产品交付效率；
+5.分析测试结果，总结质量评估，定位问题，与开发团队协作以推动问题解决。"
+混元大模型多模态算法研究员,TEG,"深圳
+                  ",技术,更新于2024年12月20日,"1.参与多模态大模型的数据准备、数据清洗、数据实验等工作，构建高质量的多模态数据集；
+2.建设对标业内前沿的多模态训练数据集，并在此基础上进一步提升数据质量和多样性；
+3.构建Data-Centric数据闭环，探索在固定模型和评测情况下提高多模态数据质量的路径，包括图文数据质量、研究数据和模型的Scaling Law、研究数据配比、数据混入策略与混入时机。"
+混元高级SRE运维工程师（北京）,TEG,"深圳
+                  ",技术,更新于2024年12月19日,"1.负责混元AIGC产品运维，保障服务的稳定、可靠、高效运行；
+2.负责容量管理与规划，资源成本优化，保障线上服务容量合理，提升资源效能；
+3.负责持续集成和交付，高效和自动化的运维优化，提升服务的稳定性和研发效率；
+4.参与在线系统及各类服务架构设计，提供专业的稳定性和架构改善方案；
+5.分析和深入发掘现有系统的不足，数据驱动找到薄弱点，推动系统优化落地改进；
+6.关注业界前沿技术动态，探索复杂业务系统运维自动化和智能化的技术和方向。"
+计算机感知建图算法专家,CSIG,"北京
+                  ",技术,更新于2024年12月19日,"1.参与高精地图CV感知算法设计和研发，包括但不限于2D、3D目标检测、分割等方向；
+2.参与高精地图CV感知算法设计和研发，包括多模态大模型感知技术以及AIGC研究技术的研发；
+3.参与CV感知算法在高精以及车道级地图产品中的落地与优化。"
+腾讯大数据-#前端工程师#-安全方向,PCG,"深圳
+                  ",技术,更新于2024年12月18日,"1.负责团队web端设备指纹建设， 保障web端流量可追踪、可理解；
+2.负责团队web端安全体系建设，在保护好用户体验的基础上识别爬虫、自动机等风险行为；
+3.参与设备指纹、安全策略、业务诊断等运营系统的开发与维护工作。"
+企业微信-商业化数据分析师,WXG,"广州
+                  ",产品,更新于2024年12月17日,"1.空间盘点与分析： 提供基于内外部数据的洞察和分析，预估新SKU转化情况、分析老SKU渗透增长空间；
+2.商业化相关数据处理与整合：收集、整理及分析各类业务数据，确保数据的准确性和可靠性。使用数据分析工具（如 Excel、SQL、Python 等）进行数据清洗和处理；
+3.增长分析：负责监测和分析商业化核心指标，如收入、续费等的增长情况和波动情况，进行数据探索与数据归因；
+4.数据模型建立：设计并建立数据模型，协助预测分析、决策支持。应用统计学和机器学习技术，提升数据分析的深度和广度。"
+腾讯投资-投资运营分析师-数据分析,CDG,"北京
+                  ",战略与投资,更新于2024年12月17日,"1.对投融资数据进行分析，辅助管理层及时了解投资表现和业绩；
+2.对被投公司的运营、财务数据进行分析，追踪企业运营现状，识别可能风险点；
+3.因应业务需要编制报告，包括但不限于基于投融资数据、被投公司数据等，定期向管理层汇报；
+4.以管理层视角，设计管理看板和数据、财务分析框架，并不断迭代更新；
+5.根据业务需要，不定期支持专项数据提取或统计分析工作，固化数据分析模版；持续根据业务分析需要优化和完善数据字段及算法，并提出合理建议；
+6.与投资团队、财务法务部门等密切合作，了解数据分析需求，不断发掘应用场景和优化点。"
+芯片验证工程师,TEG,"深圳
+                  ",技术,更新于2024年12月16日,"1.负责芯片的验证工作，包括：芯片验证的全流程，负责模块级、系统级芯片验证；
+2.负责制定验证方案和验证计划，分解测试点，搭建验证环境；
+3.负责根据测试点编写验证用例，开展功能测试、性能测试、功耗测试；
+4.负责门仿和后仿验证；
+5.配合设计、硬件加速、软件团队进行系统测试和问题定位，复现原型或硬件加速问题；
+6.负责验证交付质量，开展各项质量活动，进行代码覆盖率和功能覆盖率分析，保障验证交付质量；
+7.参与芯片研发全周期的验证工作，包括Bringup和样片测试。"
+芯片验证工程师,TEG,"北京
+                  ",技术,更新于2024年12月16日,"1.负责芯片的验证工作，包括：芯片验证的全流程，负责模块级、系统级芯片验证；
+2.负责制定验证方案和验证计划，分解测试点，搭建验证环境；
+3.负责根据测试点编写验证用例，开展功能测试、性能测试、功耗测试；
+4.负责门仿和后仿验证；
+5.配合设计、硬件加速、软件团队进行系统测试和问题定位，复现原型或硬件加速问题；
+6.负责验证交付质量，开展各项质量活动，进行代码覆盖率和功能覆盖率分析，保障验证交付质量；
+7.参与芯片研发全周期的验证工作，包括Bringup和样片测试。"
+数据库测试开发工程师(北京/深圳),TEG,"深圳
+                  ",技术,更新于2024年12月14日,"1.负责数据库产品质量保障工作，从产品架构和客户需求场景设计全面的场景覆盖，保障项目高质量 交付；
+2.参与数据库产品测试工具体系建设，负责研发效能提升相关的工具平台的的设计和开发，devops工 具链建设并推动落地，提升研发效率提升研发质量和效率；
+3.在数据库专项领域，持续探索引用行业相关测试技术和理念，帮助团队提升质量和效率，熟悉模糊 测试、混沌测试等专项测试能力构建者优先。"
+AI芯片算子开发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月14日,"1.基于自研AI芯片，研发高性能算子、对算子和模型进行调试调优；
+2.针对业务落地过程中的性能与泛化性问题，不断迭代算子库；
+3.能够编写高效的计算核和数据流，交付性能极致的算子；
+4.不断迭代算子工具链，以确保其完整性和易用性，和业务一起构建AI生态。"
+AI芯片算子开发工程师,TEG,"北京
+                  ",技术,更新于2024年12月14日,"1.基于自研AI芯片，研发高性能算子、对算子和模型进行调试调优；
+2.针对业务落地过程中的性能与泛化性问题，不断迭代算子库；
+3.能够编写高效的计算核和数据流，交付性能极致的算子；
+4.不断迭代算子工具链，以确保其完整性和易用性，和业务一起构建AI生态。"
+AI模型性能优化工程师 ,TEG,"深圳
+                  ",技术,更新于2024年12月14日,"1.基于自研芯片，研发高性能推理与训练框架，解决芯片落地过程中的全链路问题；
+2.根据市场产品调研，不断优化自身瓶颈，全面提升自研芯片推理模型整网性能；
+3.不断迭代和完善框架性能和易用性，和业务一起构建自研芯片软件生态。"
+AI模型性能优化工程师 ,TEG,"北京
+                  ",技术,更新于2024年12月14日,"1.基于自研芯片，研发高性能推理与训练框架，解决芯片落地过程中的全链路问题；
+2.根据市场产品调研，不断优化自身瓶颈，全面提升自研芯片推理模型整网性能；
+3.不断迭代和完善框架性能和易用性，和业务一起构建自研芯片软件生态。"
+腾讯广告-企微广告服务商合作数据开发工程师(北京),CDG,"深圳
+                  ",技术,更新于2024年12月11日,"1.业务方向：负责挖掘腾讯广告下投放企微广告的优化合作工作；
+2.AMS作为广告官方服务商，为客户提供与广告紧密结合的工具能力，譬如企微链路的数据上报、销售开口赋能，风控等；
+3.通过搭建与企微三方服务商的合作通路，引入第三方服务商为广告的中后链路赋能服务；
+4.岗位具体职责：；
+5.数据模块设计及开发：设计并实现高效、可扩展的大数据存储和处理工程，负责数据清洗、转换和加载工作，确保数据质量和准确性；
+6.性能和安全优化：优化数据处理流程，提高数据处理效率和系统性能、确保数据的安全性和合规性，遵守相关法律法规；
+7.数据分析：围绕企微链路的优化可能性进行数据分析，挖掘可能性。"
+QQ浏览器-#数据科学#,PCG,"深圳
+                  ",技术,更新于2024年12月09日,"1.负责QQ浏览器商业广告数据科学工作；
+2.与产品、运营、研发团队紧密合作，设计并执行数据分析方案，提出并推动分析结论的实施；
+3.构建并维护符合业务需求的关键指标评估体系，实时监控指标变化并分析异动原因；
+4.设计并实施A/B测试方案，评估实验效果，发现业务机会，助力商业产品策略的持续优化。"
+微信-生态 AI 训练与部署系统高级工程师,WXG,"深圳
+                  ",技术,更新于2024年12月08日,"1.负责微信计算机视觉、语音、推荐、语言、多模态模型等 AI 算法业务的分布式训练系统支持与优化，以及在微信小程序、视频号、企业微信、微信读书、输入法等场景中的多平台落地与性能优化；
+2.对现有分布式训练框架进行定制和扩展，以满足大规模训练的需求；开发、主导解决分布式训练系统高并发、高可靠性、高可扩展性等技术难关，优化训练效率和资源利用率；
+3.持续跟踪最新的分布式训练、部署技术发展趋势，将前沿研究成果应用于实际项目中，引导算法团队设计性能、功耗兼顾的算法。"
+IDC资源优化经理,TEG,"深圳
+                  ",技术,更新于2024年12月04日,"1.负责IDC数据中心基础设施资源（机架、机位、电力、服务器等）建设及裁撤等项目推进、运营操作、数据分析、业务协调等；
+2.负责内部自研业务（物理机、云上）迁移方案制定，实际执行跟进/反馈；
+3.负责IDC裁撤全流程优化、协助项目PM推动落地运营能力建设；
+4.负责IDC裁撤过程中业务疑难问题解答、协调及推动解决；
+5.负责日常项目管理工作涉及的数据分析、问题挖掘。"
+腾讯大数据-#算法工程师#（深圳/北京）-数据挖掘,PCG,"北京
+                  ",技术,更新于2024年12月03日,"1.基于海量的业务数据，挖掘数据价值，并在PCG各个业务场景取得落地收益，包括但不限于：；
+2.利用机器学习、深度学习等技术，理解文章、图片、视频等不同模态内容；
+3.基于海量用户行为，利用机器学习、深度学习等技术，理解用户，刻画用户，构建自然人；
+4.推进挖掘的数据资产在各业务的推荐、搜索、增长、安全、金融风控等方向落地；
+5.参与团队前沿技术探索（如大语言模型、多模态大模型、graph对比学习等），并贴合场景落地取得业务收益。"
+大数据后台开发工程师（北京/深圳/上海）,TEG,"深圳
+                  ",技术,更新于2024年12月03日,"1.负责面向大数据的下一代分布式存缓加速系统的架构设计与研发，发现目前系统的问题，并持续优化；
+2.负责系统的性能优化，稳定性提升，以及运营平台的规划与建设；
+3.跟进业界趋势，保持系统的领先性。"
+混元机器学习平台运维工程师（大模型方向）,TEG,"深圳
+                  ",技术,更新于2024年12月02日,"1.负责混元机器学习系统的稳定运转，支持模型开发、训练与部署的多个环节；
+2.负责资源成本管理与规划，优化计算和存储资源，提升机器学习任务的执行效率；
+3.负责集群管理和服务治理，设计容灾方案并实施演练，保障系统高可用和稳定性；
+4.优化机器学习模型的部署流程，包括持续集成、持续部署（CI/CD）和自动化测试；
+5.分析AI硬件应用中的质量性能表现，提供系统的技术支持能力，推动改进识别和落地。"
+数据科学平台研发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月02日,"1.负责数据科学平台工具链(notebook、特征管理、工作流等)的设计和开发工作；
+2.负责优化系统架构，提升服务的性能和稳定性，提升研发质量和效率。"
+全球化写实3A动作游戏-高级后台开发工程师,IEG,"深圳
+                  ",更新于2024年08月27日,更新于2024年08月27日,"1.负责游戏后台核心架构设计及开发；
+2.负责游戏基础平台的开发与维护；
+3.负责游戏服务器系统模块设计和开发工作；
+4.对服务器端性能，稳定性，安全性，效能等多方面质量负责。
+Work Location: China-Shenzhen"
+混元大语言模型精调算法工程师-代码方向-深圳/北京,TEG,"深圳
+                  ",技术,更新于2024年11月20日,"1.负责大语言模型（LLM）代码理解和生成相关的技术研究，提升大模型的代码基础能力；
+2.跟进大模型代码领域的前沿技术，将其应用于研发生产中，持续提升大模型的代码能力；
+3.负责大模型的代码相关的数据构建、训练调优及评测迭代，推进大模型技术在代码补全,Text2SQL,代码问答,代码Agent等业务场景落地。"
+PUBG Mobile-高级游戏大数据开发工程师-(UGC方向),IEG,"深圳
+                  ",技术,更新于2024年11月13日,"1.负责利用机器学习算法解决PUBG Mobile的UGC业务问题，如作品推荐、AIGC、商业化等相关内容的系统搭建和优化，能够进行问题抽象、技术选型、算法优化，最终提升玩家体验；
+2.负责游戏数据分析，如构建用户画像、作品玩法特征等，与策划团队配合，依据业务需求，调整算法策略和确定模型优化方向；
+3.负责机器学习算法在全球化运营项目中的开发运维和部署落地，并解决相应的工程问题。"
+Devops工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年11月04日,"1.负责公司内部产品的Devops流程建设和优化，解决研发痛点问题；
+2.落地Devops流程，处理用户使用问题及优化建议；
+3.参与Devops流程相关的平台能力开发；
+4.备注：此岗位为腾讯集团旗下子公司编制岗位。"
+云中间件测试开发工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年11月01日,"1.负责腾讯云公有云/私有云的容器/微服务/消息队列/TCB等产品的测试工作；
+2.分析产品相关需求、设计、架构等，设计测试方法和测试用例；挖掘并跟进实施性能测试、竞品对比测试、稳定性等专项测试，保障和提升产品质量；
+3.负责研发能力和效率提升，包括但不限于自动化建设，测试工具开发，环境管理，devops流水线建设等；
+4.注：此岗位为腾讯集团旗下子公司编制岗位。"
+PUBG Mobile-高级算法工程师-(数据挖掘),IEG,"深圳
+                  ",技术,更新于2024年10月21日,"1.负责利用机器学习算法解决PUBG Mobile的业务问题，如活跃、社交、商业化等相关内容的推荐和优化，能够进行问题抽象、技术选型、算法落地与优化，最终提升玩家体验；
+2.负责游戏数据分析，如构建用户画像等，并策划团队配合，依据业务需求，调整算法策略和确定模型优化方向；
+3.搭建在线机器学习系统，协助构建工作室内数据技术能力，提升算法落地效率。"
+Data Scientist intern 900075,WXG,"新加坡
+                  ",技术,更新于2024年04月08日,"- Develop and execute new plans and processes for improving user safety, data compliance, and service reliability for users around the world
+- Meet regularly and communicate across functional teams including product, development, engineering, and legal and act as facilitator for development and operations
+- Cooperate with service providers, define processes, and develop internal and external tools to assist in core operations such as data enginering, code deployment, and service reliability
+- Assist other teams in making their WeChat features available and compliant to users around the world
+Work Location: Singapore-WeWork"
+腾讯广告-数据科学,CDG,"深圳
+                  ",技术,更新于2024年12月26日,"1.负责腾讯广告相关业务的数据科学及分析工作，利用先进的数据分析技术和工具，挖掘潜在商业价值，支持业务决策；
+2.基于平台和数据，通过机器学习方法，完成达人、内容、商家、货品等方向的推荐系统开发，提升用户体验和广告效果；
+3.参与业务增长全链路的数据分析与挖掘，构建高效的客群挖掘和营销推荐系统、科学地应用AB实验和因果推断方法，推动数据驱动的业务增长。"
+腾讯云-安灯NLP大模型算法工程师,CSIG,"深圳
+                  ",技术,更新于2024年12月25日,"1.参与大模型的应用开发，推动大模型文本生成、意图识别、多模态、多智能体等能力在业务场景落地，针对业务特有问题改进优化；
+2.负责大模型搭建、调优，以及线上模型的维护和优化；
+3.紧跟业界最新技术，攻克大语言模型关键技术难点。"
+腾讯云-TCE平台部署研发工程师-深圳/北京,CSIG,"深圳
+                  ",技术,更新于2024年12月24日,"1.负责腾讯专有云TCE平台部署架构的规范标准制定与部署系统研发与调优；
+2.负责腾讯专有云TCE平台所有云产品包括IaaS、PaaS、SaaS的部署工艺与时效优化，以达到极致为目标；
+3.负责腾讯专有云TCE平台部署构建体系建设，覆盖不同的部署形态，持续的构建部署，前置问题发现与处理。"
+混元大模型数据研发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月24日,"1.负责大模型海量数据的管理与挖掘工作，包括数据理解、质量监控、数据治理体系建设，为模型训练提供稳定、可靠的高质量数据；
+2.根据各类数据特点，抽象并开发高效、可靠的数据加工框架；管理数据的元信息、血缘、存储治理等数据全生命周期要素；提供训练数据的可视化、可观测能力；提升训练数据治理的工程效率；
+3.持续关注行业动态和最新技术，保持对相关领域的专业知识和技能的更新。"
+音频与语音算法研究员,TEG,"北京
+                  ",技术,更新于2024年12月21日,"1. 跟踪业界最新的AIGC算法研究，创造性解决音频生成相关问题，负责语音大模型相关工作；
+2. 基于生成式模型的音频编辑处理的相关研究工作，包括但不限于基于大模型的降噪、分离、合成、转换、内容编辑任务；
+3. 探索音频音效生成技术，实现文生音效、视频生成音效，多种模态融合的音效生成，提升生成质量与效率。"
+腾讯会议-大数据高级开发工程师（数仓方向）,CSIG,"深圳
+                  ",技术,更新于2024年12月20日,"1.负责腾讯会议离线和实时数仓的规划和建设，结合数据和技术与应用等多方特性，构建高可用和易扩展的数仓体系，高效满足业务用数诉求；
+2.负责建立数仓与数据质量标准和规范，确定数据治理方案，并与内外部团队协作，推动落地实施，不断提升数据质量，确保数据及时、准确与稳定性；
+3.不断优化数仓模型，抽象总结并沉淀通用方案与平台工具能力，提升研发与用户用数效率。"
+AI数据工程师,TEG,"深圳
+                  ",技术,更新于2024年12月18日,"1.负责音频理解模型的优化和串联，包括降噪、VAD、对齐等；
+2.负责AI模型相关的大数据处理，包括数据爬取、数据清洗、数据处理、数据合成等工作；
+3.负责相关的数据平台和数据管线的建设和开发工作；
+4.负责抽象和提炼业务的数据处理需求，并且能够设计和沉淀通用的工具和平台。"
+#SRE工程师#,PCG,"深圳
+                  ",技术,更新于2024年12月18日,"1.负责PCG容器平台的SRE工作，包括但不限于运营规划，资源管理、运营变更和质量保障工作；
+2.负责容器平台的运维自动化平台建设和优化，提升稳定性，确保在部署、监控、变更、架构、自愈等多维度提高产品可用性，消除系统性风险；
+3.面向规模化场景，结合产品能力，形成高效稳定的运营流程，主要服务业务包括腾讯视频、腾讯新闻、QQ浏览器、腾讯音乐、应用宝等。"
+网关高级运维工程师,TEG,"深圳
+                  ",技术,更新于2024年12月18日,"1.负责弹性IP和负载均衡网关平台运营维护，规划设备管理、容量管理、网络管理、成本优化；版本上线变更/业务联调/现网监控/故障处理等日常运维工作，保障现网安全运营质量；
+2.负责监控体系的优化与实践，提升主动发现率以及告警时效，负责故障恢复预案的建设和演习，通过故障分析以及自愈手段，缩短RTO，打造领先业界的稳定性运营体系；
+3.负责容灾体系优化，实践业务连续性建设，识别风险并闭环，减少现网隐患，确保网关业务在日常运营、大规模突发等场景下的稳定运营性；
+4.负责运维体系的设计与研发，完善平台运维体系；参与架构升级规划设计和评审，识别各环节的风险，确保架构迭代升级的稳定。"
+UE5高级技术美术,IEG,"深圳
+                  ",更新于2024年12月18日,更新于2024年12月18日,"岗位职责：
+• 和美术及引擎程序⼀起设计渲染⽅案， 编写Shader， 实现美术效果；
+• 设计美术资源规范， 确保项⽬的美术资产按照规范执⾏；
+• 对游戏性能进⾏Profiling， 设计优化⽅案；
+• 和美术及引擎程序⼀起解决⼯具引擎⽇ 常使⽤过程中出现的问题；
+• 发现美术pipeline中出现的问题， 开发⼯具提⾼美术⼯作流效率；
+• 和美术及引擎程序⼀起研发新⼯具和游戏引擎的新特性， 开发范例⼯程， 技术推⼴应⽤；
+Work Location: China-Guangzhou | China-Shenzhen"
+操作系统高级研发工程师（深圳/北京/上海）,TEG,"深圳
+                  ",技术,更新于2024年12月16日,"1.负责操作系统基础软件源码维护，需求开发，上游反馈等；
+2.负责操作系统核心组件设计和研发，腾讯自研软件开发和支持；
+3.负责软件包分析，打包和编译，软件包依赖解决；
+4.参与社区互动，协同开发，开发者交流等。"
+语音算法研究员（深圳/北京）,TEG,"深圳
+                  ",技术,更新于2024年12月15日,"1.负责AI Lab语音技术团队语音技术，包括TTS、语音压缩编码、语音前端处理等，尤其是基于AIGC算法的基础研究和应用落地。 ；
+2.侧重于研发语音合成、语音转换、few-shot / zero-shot TTS、音频和音乐生成等先进算法尤其是生成类算法，并且可以融合语音识别、音频分析、语音增强、语音分离等更广泛的语音/音频任务。将有关算法成果应用于语音 / 音乐 / 音效/音频生成、语音翻译（S2TT、S2ST）、虚拟人等众多场景中。 ；
+3.通过跟踪和创新，确保算法方面的行业领先，通过打造语音技术PAAS平台服务于腾讯内部各个业务场景包括游戏、社交、内容服务、广告、金融、车载助手、企业服务（如腾讯会议、企业微信、企点客服、商通、数智人）等等，帮助业务产生实际价值和打造业界领先的语音应用产品。；
+4.持续关注学术界和行业的最新研究动态，参与国际会议、研讨会，与全球顶级团队进行交流合作。。"
+微信搜索-搜索召回算法工程师,WXG,"广州
+                  ",技术,更新于2024年12月14日,"1.负责微信搜索召回模块相关工作，包括但不限于索引构建、向量召回、召回打分、粗排等工作，紧贴业务需求，和系统上下游一起不断推进微信搜索系统端到端效果，助力业务体验升级；
+2.跟踪业界最新研究成果，根据实际应用效果不断改进业务策略、模型、算法，将前沿信息检索技术、搜索技术、模型应用到搜索业务相关场景中。"
+微信搜索-搜索召回算法工程师,WXG,"深圳
+                  ",技术,更新于2024年12月14日,"1.负责微信搜索召回模块相关工作，包括但不限于索引构建、向量召回、召回打分、粗排等工作，紧贴业务需求，和系统上下游一起不断推进微信搜索系统端到端效果，助力业务体验升级；
+2.跟踪业界最新研究成果，根据实际应用效果不断改进业务策略、模型、算法，将前沿信息检索技术、搜索技术、模型应用到搜索业务相关场景中。"
+微信小店-应用研究工程师-交易治理方向,WXG,"广州
+                  ",技术,更新于2024年12月14日,"1.设计、开发和优化机器学习模型，应用于微信小店及微信交易的内容审核、风险控制、商家行为监管和用户安全等治理场景；
+2.基于海量的数据，进行数据清洗、特征提取、模型训练和评估，提升平台违规行为检测的准确性和效率；
+3.参与反作弊、信息过滤、虚假交易检测等关键系统的算法研发和优化，维护平台生态健康。"
+腾讯广告-多模态算法工程师,CDG,"深圳
+                  ",技术,更新于2024年12月13日,"1.熟悉多模态理解与生成的前沿理论和技术，参与多模态理解研发工作，包括商品理解、内容理解等；
+2.有生成式大模型LLM、MLLM、DiT的实际经验，从事过数据搜集/合成、预训练、SFT、强化学习等工作或部分工作；
+3.参与或熟悉推荐系统的运作原理，能结合生成式大模型优化个性化推荐效果。"
+混元大模型推理加速工程师-北京/深圳,TEG,"北京
+                  ",技术,更新于2024年12月13日,"1.配合算法工程师，推动深度学习相关算法的落地，打造高吞吐、低延时的推理系统；
+2.优化大模型推理性能，提升吞吐并控制成本；
+3.优化大模型推理框架，提升框架易用性和可调试性。"
+QQ短视频-推荐算法工程师-深圳/北京,PCG,"北京
+                  ",技术,更新于2024年12月13日,"1.负责qq-短视频Feed流推荐和红点推送以及商业化算法的研发，通过在召回、排序和混排上对样本、特征、模型、画像以及相关策略的不断优化，持续提升业务在不同场景的效率和用户体验；
+2.对技术有追求，能够紧跟工业界、学术界的前沿技术，并能够结合业务的实际特点将相关技术落地产生实际效果，追求极致；
+3.深入理解产品业务，洞察用户需求，持续改进内容消费推荐体验。"
+云计算后台研发工程师-北京/深圳,CSIG,"深圳
+                  ",技术,更新于2024年12月13日,"1.负责超大规模弹性计算系统的架构设计及开发工作；
+2.开发和维护腾讯云的后台管理/调度系统/监控系统(类似于OpenStack)；
+3.开发和维护运行在数十万宿主机上的虚拟化Agent；
+4.打造业界领先的虚拟机热迁移能力；
+5.负责云计算相关产品功能设计及实现。"
+魔方工作室-资深引擎开发TA,IEG,"深圳
+                  ",设计,更新于2024年12月11日,"1.负责在Unreal引擎中进行美术工具插件/效果功能开发，提升美术制作效率；
+2.负责在Unreal引擎中定位并解决美术功能bug，确保美术效果的稳定性和流畅性；
+3.与其他TA模块配合，共同提出项目效果方案与解决技术问题，推动项目顺利进行；
+4.与美术团队合作推动效果品质提升，效率提升，为美术团队提供有力技术支持。"
+游戏AI-强化学习算法研究员,TEG,"深圳
+                  ",技术,更新于2024年12月09日,"1.参与腾讯游戏AI的算法研究和应用，包括但不限于强化学习、模仿学习、元学习等，结合游戏场景，提供技术解决方案；
+2.强化学习算法应用效果优化，提高强化学习效率和效果，结合游戏场景进行应用；
+3.前沿技术的探索，推进强化学习技术在业务场景的应用。"
+地图自动建图工程师-自动化融合建图方向,腾讯云智研发子公司,"武汉
+                  ",技术,更新于2024年12月09日,"1.负责处理海量多源多模态数据，采用数据&&策略算法驱动的模式，自动化融合成图，实现对现实世界道路数据的精准刻画；
+2.负责自动化数据处理Pipeline建设，基于图匹配与机器学习等技术，应用孪生网络、GNN等，完成多层次地图数据的对齐绑定、差分、自动写入，实现地图数据的高效更新；
+3.持续探索与跟进前沿技术，在自动化建图领域带来高业务价值的新技术落地；
+4.注：此岗位为腾讯集团旗下子公司编制岗位。"
+微信小店-数据研发工程师,WXG,"广州
+                  ",技术,更新于2024年12月09日,"1.负责业务数据研发相关工作，对数据进行整合、清洗、存储形成数据资产满足业务实时离线各种场景的业务需求；
+2.负责业务主题离线、实时、湖仓一体设计与研发构建，专项推动其数据应用的高可用、高质量和安全可靠；
+3.负责参与数据架构的设计与优化，提升系统性能和稳定性；
+4.与产品团队紧密协作，理解业务需求，提供数据支持，推动数据驱动的产品改进；
+5.制定和优化数据开发规范和流程，提高团队工作效率和质量；
+6.跟踪业界最新技术和动态，将其应用到实际项目中，提升产品竞争力。"
+云存储系统测试工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月09日,"1.负责包括对象存储，块存储，文件存储等分布式存储产品的测试工作；
+2.负责分析产品需求，架构，设计测试方法和测试用例；
+3.负责产品功能，性能测试、竞品分析、稳定性，可靠性等专项测试工作；
+4.负责建设产品相关的自动化测试、Devops等工作；
+5.不断改进测试过程、方法和技术，提升产品质量；
+6.注：此岗位为腾讯集团旗下子公司编制岗位。"
+读书产品部算法研究员,WXG,"北京
+                  ",技术,更新于2024年12月04日,"1.支持微信读书相关业务，包括搜索推荐、(长)内容理解、AI问书等算法研发及持续优化，提升微信读书整体用户体验；
+2.负责前沿技术的应用落地，包括但不限于大模型微调，RAG，Agent等。"
+操作系统高级研发工程师,TEG,"上海
+                  ",技术,更新于2024年12月02日,"1.负责操作系统基础软件源码维护，需求开发，上游反馈等；
+2.负责操作系统核心组件设计和研发，腾讯自研软件开发和支持；
+3.负责软件包分析，打包和编译，软件包依赖解决；
+4.参与社区互动，协同开发，开发者交流等。"
+AI Lab-音乐算法研究员（深圳/北京）,TEG,"深圳
+                  ",技术,更新于2024年11月28日,"1.负责AI Lab语音技术团队音乐基础技术，尤其是基于AIGC算法的基础研究和应用落地；
+2.侧重于研发音乐生成、音乐理解、数据管线、音频生成与理解的基础算法；
+3.通过跟踪和创新，确保算法方面的行业领先，通过打造技术PAAS平台服务于腾讯内部各个业务场景包括游戏、社交、内容服务、广告、金融、车载助手、企业服务（如腾讯会议、企业微信、企点客服、商通、数智人）等等，帮助业务产生实际价值和打造业界领先的语音应用产品；
+4.持续关注学术界和行业的最新研究动态，参与国际会议、研讨会，与全球顶级团队进行交流合作。"
+ima copilot智能工作台-#后台开发工程师#,PCG,"深圳
+                  ",技术,更新于2024年11月27日,"1.负责ima copilot智能工作台后台系统开发、运营与维护；
+2.ima copilot智能工作台后台服务性能的优化与体验优化，提升系统稳定性，确保系统的高可用；
+3.结合业务需求，负责相关前沿技术调研与落地。"
+Game Operation Manager,IEG,"深圳
+                  ",更新于2024年08月27日,更新于2024年08月27日,"【About Level Infinite】
+Level Infinite 是腾讯旗下国际游戏业务品牌，致力为全球玩家带来充满乐趣、原汁原味的游戏体验，让玩家随时随地进入游戏世界；并通过打造包容、互通、便捷的玩家社区，促进分享交流。
+
+Level Infinite为合作工作室提供一系列支持及服务，助力其释放产品潜能。
+
+Level Infinite发行产品包括《PUBG MOBILE》、《Goddess of Victory: NIKKE 》《Honor of King》等热门游戏，并与合作工作室联手推出了来自Fatshark的《战锤40K：暗潮》、Funcom的《沙丘：觉醒》、Inflexion Studios的《夜莺》在内多款产品。
+
+想进一步了解Level Infinite，请访问www.levelinfinite.com，并在Twitter、Facebook、Instagram和Youtube上关注我们的官方账号。
+
+【Job Responsibilities】
+1. 深入洞察玩家行为： 分析游戏数据，识别玩家行为模式、游戏内经济、玩家流失等关键指标，并深入挖掘背后的原因和驱动因素。
+2. 提供数据驱动的解决方案： 基于数据洞察，提出针对性的游戏设计、开发和运营策略，例如优化游戏玩法、调整数值平衡、设计新的活动和奖励机制等，以解决游戏面临的问题，提升玩家留存和付费率。
+3. 建立数据分析体系： 建立完善的数据分析框架和流程，包括数据采集、清洗、存储、分析和可视化，并确保数据质量和分析结果的可靠性。
+4. 数据可视化和汇报： 使用数据可视化工具，将复杂的数据分析结果清晰简洁地呈现给游戏团队，并撰写数据报告，为游戏决策提供数据支持。
+5. 紧跟行业趋势： 持续关注游戏行业最新数据分析技术和工具，并将其应用于游戏数据分析工作中，不断提升数据分析效率和质量。
+Work Location: China-Shenzhen"
+云原生算力平台运维工程师,TEG,"深圳
+                  ",技术,更新于2024年11月21日,"1.岗位职责：；
+2.负责GPU、CPU、异构计算设备的日常运维、软硬件排障、调优，以及算力服务能力提升、资源利用效率提升，保障算力输出的持续、稳定、高效；
+3.负责k8s集群管理和治理，容灾设计、监控告警、版本变更、安全演练等，保障系统高可用和可维护；
+4.负责运维运营工作自动化，包括资源管理、变更管理、故障恢复、用户工具接口等。"
+《王者荣耀》国际版-数据分析和用研负责人,IEG,"深圳
+                  ",产品,更新于2024年11月08日,"1.数据分析：管理并指导《王者荣耀》国际版数据分析团队，全面负责游戏数据的收集、处理、分析及呈现；
+2.用户研究：主导用户研究项目，通过定性和定量分析深入了解用户行为和需求；
+3.战略支持：为产品开发和营销策略提供数据驱动的决策支持；
+4.团队管理：招聘、培训和发展数据分析和用户研究团队成员，提高团队整体专业能力；
+5.跨部门协作：与产品、市场、运营等部门紧密合作，确保数据和研究结果被有效应用于产品优化；
+6.创新推动：探索新的数据分析工具和方法，保持行业领先的分析能力。"
+微信视频号-内容安全算法高级工程师,WXG,"广州
+                  ",技术,更新于2024年11月05日,"1.负责持续优化视频号内容安全系统；
+2.负责持续优化机器召回模型，搭建并持续完善安全策略召回链路；
+3.负责挖掘和打击视频号产品各类业务违规(如内容安全问题，行为安全问题，用户安全问题等),为视频号及相关业务发展提供安全保障。"
+运维工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年11月04日,"1.负责腾讯云服务环境的稳定性建设，提升整体研发效率和交付质量，包括环境治理、性能优化、工具开发以及流程方法的优化与改进；
+2.为云产研团队提供技术支持和工程赋能，推动各产品在测试、运维、发布等方面的自动化和智能化实现；
+3.持续监控并优化腾讯云服务质量，以提升服务水平协议（SLA）；
+4.备注：此岗位为腾讯集团旗下子公司编制岗位。"
+高级安全策略工程师（DDOS方向）,TEG,"深圳
+                  ",技术,更新于2024年10月21日,"1.负责腾讯广告、游戏、微信等自研业务和腾讯云EdgeOne的DDoS防护策略建设工作，保障重点业务的安全稳定运营；
+2.结合外部威胁变化、重点业务安全痛点，持续优化和运营DDoS安全防御算法和解决方案，并具备运营意识做好安全价值输出；
+3.追踪机器学习及深度学习前沿技术，并探索在重点业务场景中的落地应用。"
+混元数据科学研究员（数据飞轮）,TEG,"深圳
+                  ",技术,更新于2024年12月24日,"1.负责通用AI大模型相关的评测与应用的规划与落地，包括但不限于；
+2.通用AI大模型评测方案制订与落地：制订准确度量大模型生成内容的准确性，时效效、无毒性等多维度下指标的评测方案、生成测评数据以及评测报告，持续助力大模型探索知识边界；
+3.探索通用AI大模型在推荐/广告等领域的应用与研发落地，应用SFT/RL等方案持续提升大模型在特定领域的效果表现，持续优化模型训练效率与稳定性。"
+腾讯云-IaaS SRE 技术专家,CSIG,"深圳
+                  ",技术,更新于2024年12月21日,1.为腾讯云IaaS平台的稳定运营负责，保障腾讯云服务器稳定运行； 2.负责对Kvm虚拟化/Linux操作系统等疑难问题分析解决，并形成方法论赋能团队不断提升技术能力； 3.负责分析海量运营场景下故障处理、发布变更的可优化点，通过软硬件技术手段、流程制度、系统化能力建设来提升虚拟化平台的稳定性； 4.负责腾讯云IaaS运维平台规划、建设，能整合各类场景需求体系化的建设底层平台能力，不断提升运维质量和效率。
+腾讯广告-审核后台开发工程师,CDG,"北京
+                  ",技术,更新于2024年12月20日,"1.负责腾讯广告审核风控体系的研发与优化，通过在线服务开发、智能审核策略探索及广告业务深度调研，构建高效、精准的广告内容审核机制；
+2.在海量商业数据中，运用先进技术进行系统级识别和召回，优化广告审核全链路流程，确保广告内容的合规性与用户体验的安全性，持续提升审核效率与准确性；
+3.不断探索并应用前沿技术（如AI大模型）于广告审核领域，推动审核策略的智能化升级，引领行业技术变革。"
+腾讯互娱增长中台 --用户增长高级算法工程师,IEG,"深圳
+                  ",技术,更新于2024年12月18日,"1.负责前沿机器学习技术在游戏用户增长领域的应用，包括用户行为建模、留存/付费预估等，挖掘游戏高价值用户群体；
+2.负责与全球广告平台的对接提效，包括Google,Meta,Tiktok等，研发UA增长引擎；
+3.负责对游戏用户做深入分析和理解，制定算法策略促进用户增长。"
+大数据高级开发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月17日,"1.负责大数据平台离线和实时数仓基础架构设计和开发，沉淀通用方案和平台产品化工具，提升研发效率和体验；
+2.支持业务数仓链路评估和规划，提升数仓链路效率和优化成本；
+3.通过数据工程技术 及方法论的规范化建设，推动提升数据质量，确保数据准确性、稳定性。"
+腾讯云-PaaS产品测试开发工程师,腾讯云智研发子公司,"武汉
+                  ",技术,更新于2024年12月17日,"1.负责腾讯云PaaS/SaaS/平台业务的功能测试、性能测试、接口测试、安全性测试、自动化测试工作；
+2.制定测试策略，编写测试计划、测试用例和测试脚本，执行测试，维护测试环境；
+3.规划和设计符合产品特点的测试平台、工具，优化产品研发测试过程，提升研发效能；
+4.对产品、流程提出持续性改进意见和架构优化建议，进行缺陷跟踪定位，协助开发工程师解决问题等。"
+腾讯广告审核后台开发工程师-北京,CDG,"北京
+                  ",技术,更新于2024年12月16日,"1.负责腾讯广告审核风控体系的研发与优化，通过在线服务开发、智能审核策略探索及广告业务深度调研，构建高效、精准的广告内容审核机制；
+2.在海量商业数据中，运用先进技术进行系统级识别和召回，优化广告审核全链路流程，确保广告内容的合规性与用户体验的安全性，持续提升审核效率与准确性；
+3.不断探索并应用前沿技术（如AI大模型）于广告审核领域，推动审核策略的智能化升级，引领行业技术变革。"
+腾讯云音视频高级SRE工程师,CSIG,"深圳
+                  ",技术,更新于2024年12月11日,"1.负责云音视频产品稳定性治理，保障音视频业务高度稳定性；
+2.负责云音视频产品监控与分析变更执行情况，持续优化变更管理策略和工具；
+3.负责云音视频产品容灾架构的设计和落地，提升故障快速自愈的手段和能力；
+4.负责云音视频产品线上生产变更管理、大规模故障容灾演练攻防，提升云产品稳定性的实战能力；
+5.负责云音视频产品技术类故障的生命周期管理，持续优化稳定性架构方案。"
+大模型推理引擎研发工程师,CSIG,"上海
+                  ",技术,更新于2024年12月11日,"1.研发及优化大模型推理引擎；
+2.推广公有云客户，创造技术优势引导客户上云；
+3.对接客户业务，分析性能瓶颈，定位、解决问题；
+4.协助业务内部集群部署，持续迭代性能，保持业内领先优势。"
+自动驾驶实验室-决策算法高级工程师,CSIG,"北京
+                  ",技术,更新于2024年12月10日,"1.开发和优化基于深度学习的自动驾驶决策规划算法；
+2.研究和实现最新的基于数据驱动的的决策规划算法，并将其应用于自动驾驶系统；
+3.构建和维护自动驾驶闭环仿真环境，以测试和验证规划算法性能；
+4.分析和处理自动驾驶过程中收集的数据并搭建完整训练到评测的流程；
+5.与感知、控制、仿真和数据科学团队合作，确保系统整体性能的提升；
+6.撰写技术文档，展示算法的设计原理和实验结果；
+7.持续关注自动驾驶和深度学习领域的最新研究进展，并将其应用到实际项目中。"
+DevOps平台测试工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月09日,"1.负责腾讯云效能提升专项工作，提升整体研发效率和交付质量；包括但不限于环境治理、工具开发、流程和方法的优化与改进，提升研发和工程生产力和效率；
+2.赋能产研团队，帮助业务识别和分析研发测试环境中的痛点和问题，并提出解决方案，提供技术支持和工程赋能，推进各产品的测试、运维、发布等自动化和智能化落地；
+3.协调各个团队，对研发测试环境治理进行持续改进，提炼、总结、发掘优秀实践并在组织内传播，推动落地；
+4.备注：此岗位为腾讯集团旗下子公司编制。"
+地图基础引擎测试工程师,腾讯云智研发子公司,"武汉
+                  ",技术,更新于2024年12月09日,"1.负责腾讯地图引擎SDK产品质量保障工作，通过对业务架构、代码到产品功能的全面理解，保障地图引擎SDK的质量，发现并定位缺陷，推动缺陷修复；
+2.参与toC、toB项目交付及测试体系建设，通过对引擎架构的深入研究，对其进行相应接口、功能、性能、稳定性等多维度的质量保证工作，提升引擎的交付质量和效率；
+3.负责质量及测试过程中改进工作的落地，包括但不限于自动化测试、DevOPS、推进质量内建等相关工作的具体落地，优化研发效率；
+4.备注：此岗位为腾讯集团旗下子公司编制岗位。"
+算法工程师,S3,"深圳
+                  ",技术,更新于2024年12月09日,"1.结合HR领域业务场景和需求，实现公司内部智能问询、搜索、推荐等算法相关功能的落地；
+2.基于HR实际场景，探索公司内外大模型与HR领域的结合并在智能问询、搜索、推荐等方向落地。"
+网关运营开发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月09日,"1.负责腾讯超大规模四七层网关运营平台的设计与运营，包括服务器自动化维修、变更、报表统计、资源管理、容量评估、自动化止损等；
+2.负责总结和抽象网关运维流程，推动日常问题的流程优化与相关工具的建设；
+3.负责新运维技术的调研和可行性验证，探索网关智能化运维。"
+腾讯云-专有云高级测试工程师(深圳)(成都),CSIG,"北京
+                  ",技术,更新于2024年12月08日,"1.负责腾讯专有云产品的需求和架构分析，测试设计和测试开发工作,包括IaaS，PaaS，SaaS,存储，网络等，包括但不限于功能，性能，可靠性，鲁棒性，升级部署验证，用户体验等系统测试；
+2.对测试方案进行有效的落地和执行，以确保项目进度和软件质量，形成自动化测试用例并进一步形成服务化提升效率；
+3.架构并实现IaaS，PaaS等产品自动化测试平台，提升产品测试和交付能力；
+4.不断提升测试过程，方法和技术，构建质量评估标准，优化改进措施，提升产品质量和效率。"
+芯片设计工程师,TEG,"北京
+                  ",技术,更新于2024年12月07日,"1.负责芯片的详细设计、实现及综合等设计工作；
+2.负责芯片的性能分析及优化；
+3.支撑验证团队完成UT/IT/ST验证计划的制定和执行、覆盖率收集、原型验证问题定位；
+4.支撑后端团队完成floorplan, 网表交付交付质量把控。"
+芯片设计工程师,TEG,"上海
+                  ",技术,更新于2024年12月07日,"1.负责芯片的详细设计、实现及综合等设计工作；
+2.负责芯片的性能分析及优化；
+3.支撑验证团队完成UT/IT/ST验证计划的制定和执行、覆盖率收集、原型验证问题定位；
+4.支撑后端团队完成floorplan, 网表交付交付质量把控。"
+腾讯云-产品体验优化工程师（深圳/北京/成都）,CSIG,"深圳
+                  ",技术,更新于2024年12月06日,"1.负责挖掘腾讯云产品体验类问题，推动腾讯云产品质量和产品交互体验提升；
+2.参与产品需求设计，端到端全链路走查、多维度测试活动开展（如UAT测试、跨产品协同测试等），挖掘产品深层次体验类问题，持续改进优化；
+3.共创产品体验模型、评测模型，设计和开发体验评测工具。制作腾讯云产品的体验评测报告，跟踪和分析评测结果；
+4.跟踪客户问题反馈，挖掘产品共性问题。推进典型问题闭环，持续提升产品口碑，用户满意度。"
+IM通信测试高级工程师（深圳）,CSIG,"北京
+                  ",技术,更新于2024年12月06日,"1.负责腾讯IM通信云产品的测试工作，分析系统相关需求、设计、架构等，设计测试方法和测试用例；
+2.挖掘并跟进实施性能、稳定性、可靠性等专项测试，保障和提升产品质量；
+3.跟进建设相关的流水线、自动化测试以及必要的测试工具开发，提升整体研发效能。"
+腾讯云音视频测试高级工程师（北京）,CSIG,"深圳
+                  ",技术,更新于2024年12月06日,"1.负责音视频相关产品的全流程质量管控工作，包括参与需求分析，帮助完善需求与开发设计实现，合理设计测试计划，实施测试活动，跟进缺陷，协助研发分析定位问题，并结合项目特征，挖掘业务相关的各种专项测试需求；
+2.挖掘并跟进实施性能、稳定性、可靠性等专项测试，保障和提升产品质量；
+3.跟进建设流水线、自动化测试以及必要的测试工具开发，提升整体研发效能。"
+《王者荣耀》高级引擎算法工程师,IEG,"成都
+                  ",技术,更新于2024年12月03日,"1.负责动画/物理/图形学/计算机视觉等核心技术在游戏相关领域的研发与产品化等工作，包括但不限于如下方向：动画物理系统构建、动画虚拟形象创建，3D人体动作合成/迁移，角色动作动画生成与渲染，纹理合成与可微渲染，常见游戏资源（模型/材质/贴图/动画/场景布局）的程序化生成等等；
+2.负责游戏引擎内相关功能实现，包括算法、工具链、业务实现、引擎扩展等等；
+3.负责产品需求的技术可行性评估, 程序框架及技术方案的设计和具体实现；
+4.负责跟踪业界前沿技术进展，并且能够快速将其应用到业务中。"
+腾讯地图-POI数据挖掘算法工程师,CSIG,"北京
+                  ",技术,更新于2024年12月02日,"1.基于多来源、海量的地图及生态数据, 设计算法, 检测低质量或异常的地图poi数据, 对其进行拦截或者打标, 保障数据质量；
+2.将算法转化成可靠、高效的在线服务或者离线大数据作业, 保证算法成果可以持续稳定运行；
+3.与数据产品经理和相关业务应用方保持积极沟通, 确保各种算法策略及时落地或更新。"
+高级存储运维工程师,TEG,"深圳
+                  ",技术,更新于2024年12月02日,"1.负责存储类产品的日常运营，如需求评估，发布变更、容量管理等日常运维工作，以及7*24小时稳定性保障；
+2.深入理解存储产品的模块与架构，参与产品功能规划与评审，挖掘现网风险隐患和性能瓶颈，制定相应的应急预案并定期演练；
+3.负责存储类产品的运营运维体系演进，通过工具与系统开发推进运维自动化水平，保持对运维领域的前瞻性探索。"
+稳定性SRE工程师,CSIG,"深圳
+                  ",技术,更新于2024年12月01日,"1.负责云产品稳定性治理，保障业务高度稳定性；
+2.负责云产品容灾架构的设计和落地，提升故障快速自愈的手段和能力；
+3.负责云产品线上生产变更管理、大规模故障容灾演练攻防，提升云产品稳定性的实战能力；
+4.负责云产品技术类故障的生命周期管理，持续优化稳定性架构方案。"
+腾讯云-产品稳定性SRE,CSIG,"深圳
+                  ",技术,更新于2024年11月29日,"1.负责云产品稳定性治理，保障业务高度稳定性；
+2.负责云产品容灾架构的设计和落地，提升故障快速自愈的手段和能力；
+3.负责云产品线上生产变更管理、大规模故障容灾演练攻防，提升云产品稳定性的实战能力；
+4.负责云产品技术类故障的生命周期管理，持续优化稳定性架构方案。"
+AI研究工程师（深圳/北京）,TEG,"深圳
+                  ",技术,更新于2024年11月27日,"1.负责TTS、ASR、声学前处理、自然语言处理、多模态大模型等AI系统的工程开发（包括训练工具和推理引擎的开发、优化、交付等）；
+2.负责AI系统最新算法的集成、工程化、实际场景效果验证、优化、上线；
+3.负责AI相关业务、产品的工程支持，在效果和性能上更好的落地。"
+微信视频号-安全策略高级工程师-商业交易,WXG,"广州
+                  ",技术,更新于2024年11月26日,"1.负责搭建并持续优化微信电商商业交易安全系统；
+2.负责持续优化商品内容治理，直播间治理，完善安全策略基建；
+3.负责建立机审和人审结合的方式快速发现和打击各类业务违规（如商品违规，达人带货内容违规，虚假交易识别等问题），为微信电商商业交易业务发展提供安全保障；
+4.负责微信商业交易安全系统总体架构的迭代，适配业务发展的需要，让模型跟策略的迭代更加敏捷。"
+腾讯云-稳定性测试工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年10月31日,"1.负责腾讯云的稳定性集成测试工作，包括但不限于测试环境构建和维护、故障注入测试等稳定性测试工作；
+2.管理并执行测试计划，设计测试方案和执行测试用例，进行缺陷跟踪和管理，确保测试覆盖全面，及时发现并报告潜在风险；
+3.分析测试结果，定位产品及环境问题；
+4.负责自动化、流水线等相关效能建设工作；
+5.负责推动风险和问题解决闭环；
+6.注：此岗位为腾讯集团旗下子公司编制岗位。"
+高级攻防工程师-西安、武汉,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月25日,"1.负责为云上客户提供红队评估服务，提升客户业务安全性；
+2.负责内部安全演练，验证腾讯云安全防御水位，促进平台安全建设；
+3.跟踪日常安全动态，开展前沿攻防技术研究。"
+腾讯广告-审核后台开发工程师（深圳/北京）,CDG,"深圳
+                  ",技术,更新于2024年12月20日,"1.负责腾讯广告审核体系的需求分析、系统设计和研发工作，包括但不限于： 评审业务需求，制定技术方案并实现，通过技术持续推动业务进步；
+2.升级系统架构，改进代码质量，持续提升研发效能；
+3.优化系统性能和可用性，持续提升服务质量和口碑。"
+腾讯云-产品稳定性SRE-后台开发,CSIG,"深圳
+                  ",技术,更新于2024年12月20日,"1.负责云产品业务连续性相关系统的方案设计和研发工作， 保障云产品业务稳定性；
+2.负责云产品容灾架构的设计和落地，提升故障快速自愈的手段和能力；
+3.负责云产品线上生产变更管理、大规模故障容灾演练攻防，提升云产品稳定性的实战能力；
+4.负责云产品技术类效率工具和共性组件的研发工作。"
+腾讯云-稳定性测试专家(深圳)(成都),CSIG,"北京
+                  ",技术,更新于2024年12月16日,"1.负责腾讯云的稳定性集成测试工作，包括但不限于可靠性、可用性、E2E场景、混沌、长稳测试、故障模拟演练等；
+2.管理并执行测试计划，设计测试方案和执行测试用例，进行缺陷跟踪和管理，确保测试覆盖全面，及时发现并报告潜在风险；
+3.与研发、运维团队协作，理解业务需求，为提升系统稳定性和使用效率提供有价值的反馈；
+4.分析测试结果，定位问题，协助开发团队优化代码和架构设计；
+5.负责测试环境的搭建、维护和优化；
+6.分析测试结果，总结质量评估，定位问题，与开发团队协作以推动问题解决。"
+腾讯云BI-大模型算法工程师,CSIG,"深圳
+                  ",技术,更新于2024年12月12日,"1.通过自然语言大模型的研究优化，提升LLM在领域场景的应用效果，并最终有效改善用户体验和产品效果；
+2.从事LLM领域算法训练和优化，探索通用AI大模型在大数据应用ABI/ KBQA等领域的应用与研发落地；
+3.结合产品和业务需求，从 prompt优化和SFT/RL模型研发等方法提升业务效果，解决面向业务场景的应用和落地时的算法卡点问题。"
+微信小店-高级应用研究工程师-交易治理方向,WXG,"广州
+                  ",技术,更新于2024年12月12日,"1.设计、开发和优化机器学习模型，应用于微信小店及微信交易的内容审核、风险控制、商家行为监管和用户安全等治理场景；
+2.基于海量的数据，进行数据清洗、特征提取、模型训练和评估，提升平台违规行为检测的准确性和效率；
+3.参与反作弊、负向信息过滤、虚假交易检测等关键系统的算法研发和优化，维护平台生态健康；
+4.持续跟踪机器学习领域的前沿技术和应用，推动新技术在平台治理中的落地和创新；
+5.根据平台实际业务需求，开发并维护可扩展、高效的算法框架和工具，提升治理系统的稳定性和灵活性。"
+腾讯广告-应用开发工程师(深圳/上海),CDG,"深圳
+                  ",技术,更新于2024年12月10日,"1.参与腾讯广告数据产品的建设，负责应用端后端开发，并对线上问题进行排查定位和快速解决；
+2.深度理解业务和产品需求，设计最适合的技术解决方案，并高效高质的完成需求；
+3.不断治理优化存量代码逻辑，逐步降低系统的维护成本，提升日常开发效率。"
+结算平台高级开发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月09日,"1.负责腾讯海外业务的结算平台设计、开发和维护工作，包括： 负责腾讯计费海外业务的海量数据模型设计、数据开发等工作；
+2.负责海外结算任务计算平台、底层领域模型、财务结算逻辑、公共库的建设及开发，参与相关子系统及业务流程优化重构工作；
+3.负责腾讯结算平台运营体系、结算监管、结算分析等工作。"
+《穿越火线手游》机器学习应用研究员 ,IEG,"深圳
+                  ",技术,更新于2024年12月09日,"1.基于游戏用户数据，协助构建游戏用户画像和数据分析体系，为精细化运营提供策略支持；
+2.基于游戏全链路个性化场景，构建机器学习、uplift、因果推断等模型，提升用户体验、活跃、留存，并负责模型部署应用、维护、监控和升级迭代；
+3.负责游戏侧全链路个性化管线构建，持续打磨分析、建模流程，优化算法表现和效率，提升用户个性化服务研运水平；
+4.负责跟踪和探索前沿机器学习算法，并结合游戏内实际场景，落地应用并提供全面的技术解决方案。"
+《王者荣耀》-游戏AI Bot高级算法研究员,IEG,"成都
+                  ",技术,更新于2024年12月09日,"1.负责游戏AI Bot技术的研究和落地，包括特征工程、模型训练、效果优化等，能够结合游戏应用场景和产品述求，提供合适的技术解决方案，完成项目交付；
+2.基于海量游戏数据，设计和优化游戏AI算法模型，在拟人化、多样性、自迭代方向的研究应用落地；
+3.跟进探索研究前沿机器学习技术，并能够将落地到游戏项目中，提高AI学习效率和表现效果。"
+边缘安全加速测试高级工程师（成都）,CSIG,"深圳
+                  ",技术,更新于2024年12月08日,"1.负责腾讯边缘安全加速云产品的测试工作，分析系统相关需求、设计、架构等，设计测试方法和测试用例；
+2.挖掘并跟进实施性能、稳定性、可靠性等专项测试，保障和提升产品质量；
+3.跟进建设边缘安全加速云产品相关的流水线、自动化测试以及必要的测试工具开发，提升整体研发效能。"
+微信搜索-算法工程师-多模态搜索,WXG,"北京
+                  ",技术,更新于2024年12月06日,"1.负责图像检索类产品中的算法设计和优化，紧贴业务需求，持续优化技术方案以提升业务效果；
+2.负责目标检测、目标识别、图像检索方向的技术研究和技术能力基建；
+3.跟踪前沿研究进展，根据实际应用场景不断改进与优化，并落地业务场景中。"
+前端开发高级工程师-代码插件方向,TEG,"深圳
+                  ",技术,更新于2024年11月29日,"1.负责腾讯各类研发管理平台前端系统设计和开发工作；
+2.负责搭建和维护高质量、可重用、可扩展的前端组件，重点是IDE插件的开发；
+3.深入项目，优化 Web 及 Node 应用程序在各种设备上的性能和响应速度。"
+TCE平台研发工程师,CSIG,"深圳
+                  ",技术,更新于2024年11月27日,"1.负责基于专有云平台上设计和开发有竞争力的云平台产品，包括cmdb、流程引擎、发布部署、agent管理相关运维平台以及商业化应用运维产品的研发；
+2.负责云平台的应用规范、版本管理等制定和治理，云平台的部署、升级提效；
+3.负责云平台运营运维稳定性，提高云平台整体质量，提升大客户口碑。"
+混元AIGC算法研究员（文生3D）（深圳/北京/上海）,TEG,"深圳
+                  ",技术,更新于2024年12月10日,"1.通过对AIGC大模型（3D生成）的研究优化，提升模型的生成质量、速度、多样性、可控性；
+2.推动3D生成模型工业化部署和产品落地。"
+机器学习高级后台研发工程师-推理平台方向,TEG,"北京
+                  ",技术,更新于2024年11月26日,"1.负责广告场景推理平台功能研发与性能优化，支撑广告业务持续升级；
+2.负责推理功能研发与推理加速，深入优化推理性能 或 负责模型存储模块研发，支撑异构存储；
+3.积极跟进学术界和业界的最新动态，引入业界先进架构与优化方案。"
+研发高级工程师-自动化测试方向,CSIG,"深圳
+                  ",技术,更新于2024年11月25日,"1.负责开发者工具、测试平台或云原生技术产品的架构设计、开发和落地；
+2.负责开发者工具、测试平台或云原生技术产品的开源代码项目的维护和管理；
+3.负责开源软件的方案设计、功能开发维护以及文档编写；
+4.在腾讯云研发项目中，应用行业前沿的优秀的工程实践经验，提升研发效率和工程生产力。"
+SDN控制器开发工程师,TEG,"北京
+                  ",技术,更新于2024年11月25日,"1.基于SDN控制器平台opendaylight，开发java应用；
+2.使用java语言，开发各类网络、云业务模型，并根据网络原理对业务进行编排及控制网络设备；
+3.研究业界最新技术及其应用，解决创新研发过程中的关键问题和技术难点；
+4.根据项目任务计划按时完成软件编码和单元测试工作；
+5.按照开发流程编写相应模块的设计文档；
+6.与产品经理、测试工程师、其他团队沟通合作，保证产品研发工作的质量和进度；
+7.协调或指导团队里其它开发人员的工作。"
+腾讯云-高级渗透测试工程师,CSIG,"深圳
+                  ",技术,更新于2024年11月21日,"1.负责对云安全产品(WAF,主机安全等)进行全面的评估和测试；
+2.设计和执行渗透测试，模拟真实攻防场景，以识别产品的潜在弱点；
+3.分析测试结果，编写详细的报告，提供产品安全性和防护能力的评估；
+4.研究和跟踪最新的安全威胁、漏洞和攻防技术，确保产品始终保持高水平的安全性。"
+支付风控高级产品经理,CSIG,"深圳
+                  ",产品,更新于2024年11月18日,"1.设计企业客户的支付风控解决方案，以帮助电商、web3、游戏等行业客户减少欺诈交易和拒付事件；
+2.负责产品路线图及产品商业化相关工作，涉及产品定价、市场分析、产品能力迭代、产品合规等；
+3.与算法、工程团队合作，确保产品的技术实现符合企业客户的业务需求；
+4.监控和分析企业客户的欺诈数据，定期更新欺诈检测策略；
+5.与销售和客户服务团队合作，确保企业客户满意度并减少欺诈风险。"
+腾讯云-COS存储高级后台研发工程师,CSIG,"深圳
+                  ",技术,更新于2024年11月11日,"1.负责腾讯云对象存储服务COS产品内部组件的研发和优化；
+2.负责腾讯云对象存储服务COS的支撑平台设计、研发、优化及维护；
+3.负责腾讯云对象存储服务COSCOS私有化输出产品形态的开发和维护。"
+SDN控制器开发工程师,TEG,"深圳
+                  ",技术,更新于2024年11月05日,"1.基于SDN控制器平台opendaylight，开发java应用；
+2.使用java语言，开发各类网络、云业务模型，并根据网络原理对业务进行编排及控制网络设备；
+3.研究业界最新技术及其应用，解决创新研发过程中的关键问题和技术难点；
+4.根据项目任务计划按时完成软件编码和单元测试工作；
+5.按照开发流程编写相应模块的设计文档；
+6.与产品经理、测试工程师、其他团队沟通合作，保证产品研发工作的质量和进度；
+7.协调或指导团队里其它开发人员的工作。"
+腾讯云-网络高级后台开发工程师（上海/深圳）,CSIG,"深圳
+                  ",技术,更新于2024年12月24日,"1.负责腾讯云公网产品控制器的方案设计及开发工作；
+2.负责项目开发过程中的技术攻关及解决运行中出现的技术问题；
+3.负责客户业务上云的解决方案及问题排查、优化。"
+TiMi Montreal or Singapore- Principal/Senior Technical Artist (lookdev),IEG,"蒙特利尔
+                  ",更新于2024年12月19日,更新于2024年12月19日,"What will you do?
+
+The Senior/Principal Technical Artist works in collaboration with the Art Director, Technical Art Director and Programmers to define and create the pipelines needed to produce art content production. They offer guidelines and support for a team of artists, identifying technological improvements that maximize quality, performance and efficiency. They are comfortable working in a highly collaborative and innovative environment.
+
+ 
+Develop scalable art content production pipeline and tools that support our creative vision
+
+Do benchmarking for our features through research and testing
+
+Work on creating asset banks (such as textures, materials, vfxs)
+
+Establish rules and guidelines for art content production
+
+Produce visual benchmarks that push technology forward and maximize quality
+
+Collaborate with programming team to guide feature development
+
+Support a team of artists to build content efficiently and consistently
+
+Define performance budgets for specific components of the game
+
+Fix performance issues and polish our features
+
+Profile and optimize performance on console/PC
+
+Write and maintain technical documentation
+Work Location: Singapore-CapitaSpring | Singapore-CapitaSky | Canada-Montreal"
+高级运维工程师,TEG,"深圳
+                  ",技术,更新于2024年12月18日,"1.负责键值KV/时序等存储类产品的发布变更、故障处理、容量管理等日常运维工作，保障系统7*24小时稳定运行；
+2.深入理解产品的架构，发现并解决故障隐患及性能瓶颈，负责应急预案、业务容灾和故障恢复策略方案的制定与实施；
+3.作为SRE负责存储产品的自动化运维体系构建，开发运维工具和平台，推动Devops的落地和实践，提高产品整体运维效率。"
+腾讯广告-算法工程师（机制方向）,CDG,"北京
+                  ",技术,更新于2024年12月10日,"1.参与竞价广告全链路基础策略框架建设和排序计费机制的设计，打造健康长期可持续的商业生态；
+2.深入播放系统全链路开展的数据分析和算法策略优化，提升客户投放效果，包括成本达成、冷启动起量、投放效果稳定性等；
+3.优化智能出价和预算分配算法，在给定预算或成本目标下最大化广告拿量能力；
+4.跟踪深度学习、计算广告、推荐系统等最新前沿技术，快速实现并落地应用于实际任务中，进而结合实际问题开展数据分析和迭代优化，提出创新性解决方案。"
+腾讯广告-算法工程师（机制方向）,CDG,"深圳
+                  ",技术,更新于2024年12月10日,"1.参与竞价广告全链路基础策略框架建设和排序计费机制的设计，打造健康长期可持续的商业生态；
+2.深入播放系统全链路开展的数据分析和算法策略优化，提升客户投放效果，包括成本达成、冷启动起量、投放效果稳定性等；
+3.优化智能出价和预算分配算法，在给定预算或成本目标下最大化广告拿量能力；
+4.跟踪深度学习、计算广告、推荐系统等最新前沿技术，快速实现并落地应用于实际任务中，进而结合实际问题开展数据分析和迭代优化，提出创新性解决方案。"
+腾讯云安全产品系统测试工程师,腾讯云智研发子公司,"武汉
+                  ",技术,更新于2024年12月09日,"1.负责腾讯云安全及ToB相关安全产品的全流程质量管控工作，参与需求分析，可测性及风险质量评估等工作；
+2.负责产品相关的测试方案，测试工具平台，自动化测试架构设计及实现工作；
+3.保证被测系统的质量，并通过测试体系建设和方法创新，提升研发的质量和效率，参与CICD建设提升研发效；
+4.注：此岗位为腾讯集团旗下子公司编制岗位。"
+海外网络研发工程师,TEG,"深圳
+                  ",技术,更新于2024年12月09日,"1.负责全球CDN、边缘计算网络基础设施相关系统平台架构设计和开发；
+2.负责针对CDN、安全、动态加速、边缘计算等产品在海外网络的落地提供高质量系统承载方案；
+3.负责海外边缘网络的数据采集、监控告警及自动化调度、调优等系统设计和开发。"
+海外网络研发工程师,TEG,"北京
+                  ",技术,更新于2024年12月09日,"1.负责全球CDN、边缘计算网络基础设施相关系统平台架构设计和开发；
+2.负责针对CDN、安全、动态加速、边缘计算等产品在海外网络的落地提供高质量系统承载方案；
+3.负责海外边缘网络的数据采集、监控告警及自动化调度、调优等系统设计和开发。"
+游戏运营（数据分析方向）-PUBGM 中欧区域,IEG,"深圳
+                  ",更新于2024年11月19日,更新于2024年11月19日,"- 对欧洲区发行游戏的数据相关工作负责，通过数据分析和数据挖掘，为运营内容提供数据支持和调优建议方向。具体工作包括但不限于：
+- 建立关键指标的日常监控机制，监控日常游戏数据，定期输出相关结论和报告；
+- 基于产品、用户及市场数据的研究和分析，建立产品/用户画像系统，并形成系统化的分析体系；
+- 针对游戏的数据走势，异常波动等情况，定期做出专项数据分析报告；
+- 针对新玩法/新功能/新活动的效果，进行数据分析，输出报告，负责对内容落地和效果验收；
+- 负责专题数据挖掘和建模，通过精细化运营驱动游戏体验优化，活动优化和用户增长，从数据中提出更优的改进策略；
+- 关注行业前沿动态，研究和分析行业发展趋势，量化分析价值和影响，产出专业行业分析报告。
+Work Location: China-Shenzhen"
+Tencent Cloud - Senior Cloud Network Engineer,CSIG,"新加坡
+                  ",更新于2024年10月23日,更新于2024年10月23日,"Position Overview
+As a Senior Cloud Network Engineer, you will be responsible for the design, implementation, and maintenance of Tencent Cloud's network infrastructure. This role requires expertise in managing large-scale cloud networks, troubleshooting complex network issues, and optimizing performance. You will work on enhancing the scalability and reliability of our cloud services by leveraging your knowledge of network protocols, virtualization technologies, and automation tools. This position offers an opportunity to lead cutting-edge projects and collaborate with cross-functional teams to ensure seamless cloud network operations.
+
+Responsibilities:
+Plan, design, and maintain Tencent Cloud's network, gateway, VPC, and load balancing platforms, continuously improving operational efficiency.
+Analyze and resolve complex network issues, developing methodologies to enhance team capabilities and increase network reliability.
+Utilize technical solutions and process improvements to elevate platform network availability.
+Identify and propose optimization solutions for inefficient business areas, driving the implementation of enhancements.
+Design and implement automated network operations, collaborating with other teams to develop and deploy automation tools.
+Work Location: Malaysia-Kuala Lumpur | Singapore-CapitaSky"
+海外网络高级规划工程师,TEG,"深圳
+                  ",技术,更新于2024年12月17日,"1.负责全球CDN、安全加速、边缘计算网络基础设施的规划建设、架构设计和运营；
+2.负责针对CDN、安全加速、边缘计算等产品在海外网络的落地提供高质量的网络承载方案；
+3.负责海外边缘网络的配置标准化，BGP、Anycast路由监控和优化，以及网络覆盖性能调优等；
+4.负责边缘网络和节点资源的建设项目管理，作为PMO，协调推动资源建设落地、交付效率提升及成本优化。"
+腾讯云大数据售前PoC技术专家-高级工程师-DBA方向,CSIG,"北京
+                  ",产品,更新于2024年12月12日,"1.负责腾讯云大数据售前技术支持，设计满足客户需求、有竞争力的测试方案技术；
+2.负责完善和沉淀PoC测试用例、工具文档，建设售前场景化技术方案；
+3.与客户进行技术交流，深入理解客户需求，提供专业的技术解决方案。"
+生态发展部-高级游戏技术美术,IEG,"深圳
+                  ",设计,更新于2024年12月12日,"1.负责游戏引擎渲染系统的优化和调试工作，确保游戏场景的流畅运行和高质量呈现；
+2.研发和制作美术效果原型，验证美术效果和方案，和美术一起转化为生产内容，确定工作流程和工具；
+3.深入项目和业务，与其他技术美术、美术师、前端工程师和引擎渲染工程师、策划等协作，结合项目需求共同商讨、评估、制定方案技术美术方案并推动落地，确保项目顺利研发；
+4.参与多个美术模块的开发管线建设，优化美术工具，设计工作流效率提升方案，进行性能分析和优化，确定优化方案；
+5.向游戏团队展示和传达管线、工作流程和工具的技术要求，以满足游戏团队的产品目标。"
+金融信贷-大数据风控专家   ,CDG,"深圳
+                  ",技术,更新于2024年10月22日,"1.基于支付海量的用户、商户、交易信息和行为等数据，牵头构建金融场景全生命周期的风控体系；
+2.基于支付及相关的海量大数据，应用大数据和机器学习技术，开发信用、反欺诈、准入、定价、催收等信贷风控模型；
+3.为消金、信用卡等各种金融业务提供丰富、可靠、便捷的金融风控服务，定期对各类风控应用的执行情况监控检查，并不断优化，确保落地执行符合预期；
+4.对用户的营销分析和建模有一定的经验，包括但不限于定量实验、续贷、预警、调额、交叉营销等；
+5.通过对异常用户、异常商户、异常团伙、异常设备等进行挖掘，实现金融黑产的有效预防和对抗。"
+测试高端岗位(上海)(深圳)(成都)(广州),CSIG,"北京
+                  ",技术,更新于2024年12月23日,"1.负责腾讯公有云IAAS/PAAS系统级高可用质量看护，参与云服务高可用需求分析、架构设计和竞争力审视，能识别架构风险和竞争力不足并推动解决；
+2.积累用户场景及业界高可用标准，完善系统级高可用测试用例基线以及测试方法和工程能力，制定研发各阶段测试策略、高可用执行规范要求、高可用评估方法等，组织测试活动在研发过程有效落地挖掘质量风险，支撑腾讯云系统级高可用质量提升；
+3.负责系统级高可用测试环境的设计和建设，支撑高可用/稳定性等测试活动的落地，负责相应自动化框架的设计和自动化能力的建设，支撑对应测试效率提升；
+4.负责腾讯云线下交付软件产品的解决方案测试，包括重点项目镜像测试环境搭建和方案风险评审，针对项目关键风险进行验证和评估，确保系统的高性能、可扩展性、可靠性和安全性；
+5.深度参与关键项目的POC/现网交付等工作，积累各行业的主流技术方案和技术指标，完善线下交付软件产品的解决方案测试用例场景、测试方法等测试能力建设；
+6.主导腾讯云线下交付软件产品的最佳实践输出，与产研团队和交付团队合作，通过对各行业业务需求和技术要求的深入理解结合在标杆项目的经验沉淀，转化为产品的最佳实践用于客户赋能以及指导客户业务规划。"
+腾讯云-数据库专家（上海/北京/深圳/成都）-H,CSIG,"北京
+                  ",技术,更新于2024年12月21日,"1.负责腾讯云数据库的交付工作，根据数据库产品特性并结合客户需求设计合适的架构和解决方案，并保障项目的顺利交付；
+2.深入理解数据库产品的架构，发现并解决故障隐患及性能瓶颈，指导数据库架构优化和性能优化等工作；
+3.负责腾讯云数据库交付过程中问题的跟进和管理，持续推进产品优化以及工具优化，提升产品质量和效率；
+4.负责腾讯云数据库相关的技术交流，提升腾讯云数据库的影响力；
+5.负责腾讯云数据库相关技术的前瞻规划和指导，提升数据库产品能力。"
+腾讯云用户体验-优化工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月19日,"1.负责挖掘腾讯云产品体验类问题，推动腾讯云产品质量和产品交互体验提升；
+2.参与产品需求设计，端到端全链路走查、多维度测试活动开展（如UAT测试、跨产品协同测试等），挖掘产品深层次体验类问题，持续改进优化；
+3.共创产品体验模型、评测模型，设计和开发体验评测工具。制作腾讯云产品的体验评测报告，跟踪和分析评测结果；
+4.跟踪客户问题反馈，挖掘产品共性问题。推进典型问题闭环，持续提升产品口碑，用户满意度。"
+腾讯云数据库专家 (上海/北京/深圳/成都)-H,CSIG,"上海
+                  ",技术,更新于2024年12月19日,"1.负责腾讯云数据库的交付工作，根据数据库产品特性并结合客户需求设计合适的架构和解决方案，并保障项目的顺利交付；
+2.深入理解数据库产品的架构，发现并解决故障隐患及性能瓶颈，指导数据库架构优化和性能优化等工作；
+3.负责腾讯云数据库交付过程中问题的跟进和管理，持续推进产品优化以及工具优化，提升产品质量和效率；
+4.负责腾讯云数据库相关的技术交流，提升腾讯云数据库的影响力；
+5.负责腾讯云数据库相关技术的前瞻规划和指导，提升数据库产品能力。"
+后台开发工程师,CSIG,"深圳
+                  ",技术,更新于2024年12月10日,"1.支持量子计算云平台以及面向科学仿真和工业仿真的云端服务系统功能开发，包括任务调度，芯片控制管理等功能；
+2.承担量子计算软件、模拟器、功能库和编译器的开发和维护；
+3.参与以上系统的版本发布，稳定性建设，报警，监控，容灾等运维工作，并参与实现具备可扩展性和可维护性的系统方案；
+4.根据团队需要直接参与面向KA客户的技术服务，沉淀技术能力和行业经验，与平台一起成长和发展。"
+41299-服务器性能测试工程师(北京),IEG,"北京
+                  ",更新于2024年07月01日,更新于2024年07月01日,"1.设计、规划和执行游戏后台性能测试，包括负载测试、压力测试和性能基准测试；
+
+2.分析和评估游戏后台系统的性能瓶颈，提出优化建议和解决方案；
+
+3.开发和维护性能测试脚本和工具，支持自动化测试和持续集成；
+
+4.监测和分析游戏后台系统的性能指标，及时发现和解决潜在性能问题；
+
+5.与开发团队紧密合作，参与游戏后台系统的设计和架构评审，确保系统的可扩展性和性能；
+
+6.编写详细的测试文档和报告，记录测试结果和建议。
+Work Location: China-Beijing"
+和平精英-技术策划（绿洲启元）,IEG,"深圳
+                  ",产品,更新于2024年12月05日,"1.负责设计和迭代PC及移动端编辑器基础功能，推进程序开发团队高效开发，确保编辑器能力稳定持续的进步；
+2.从实际使用角度出发，对编辑器的易用性和实用性提供优化和设计方向，并使之能在实际业务中有效落地；
+3.对游戏战斗及关卡向的工具，特性机制进行原型设计及制作；
+4.协助玩法策划进行玩法原型，体验原型的设计，搭建开发流程管线，并持续对玩法的特性需求进行设计和迭代优化；
+5.接收并分析开发团队的功能诉求，能够拆分出细致化的实现方案。"
+研发副总监,TEG,"深圳
+                  ",技术,更新于2024年11月30日,"1.根据部门战略，负责关键研发项目技术选型，能冲在一线，带领团队进行技术攻坚，确保不将组织发展需求压制在技术团队舒适区内；
+2.负责部门重点项目技术架构设计、技术评审；负责研发项目管理，确保项目进度及目标的达成；不断优化和完善研发规范、流程，持续提升研发效率和研发质量；
+3.与部门内各相关团队紧密协作，通过研发实现强力技术支撑，助力内部客户成功；牵头与部门外相关部门进行技术合作，实现跨部门合作项目的研发目标；
+4.牵头部门各大系统技术架构 review，制定重构及优化方案，设立虚拟联合团队并驱动团队解决技术债务；
+5.牵头负责大模型、大数据相关的智能化应用项目的研发工程，为最终效果负责；
+6.负责跟踪和研究行业新技术、进行前瞻性探索，与时俱进制定团队中长期技术发展规划；指导及培训团队成员，确保团队技术水平提升；敢于变革及善于排兵布阵，识别并培养关键人才，搭建梯队，促进交流和分享，不断提升团队技术人才质量，提升团队整体研发实力及战斗力。"
+代码智能算法工程师,TEG,"深圳
+                  ",技术,更新于2024年11月27日,"1.基于AI大模型，构建代码补全、代码CR意见生成、单元测试生成、代码优化等代码领域的研发辅助产品能力；
+2.构建和维护代码数据研制流水线，从不同的代码数据源中提取、转换和加工代码数据，以支持大模型的代码能力的训练；
+3.通过代码大模型的Prompt工程、RAG工程、SFT和DPO等手段，优化模型在特定业务场景的性能。"
+二次元开放世界游戏技术美术,IEG,"广州
+                  ",更新于2024年08月13日,更新于2024年08月13日,"【关于Level Infinite】
+Level Infinite 是腾讯旗下国际游戏业务品牌，致力为全球玩家带来充满乐趣、原汁原味的游戏体验，让玩家随时随地进入游戏世界；并通过打造包容、互通、便捷的玩家社区，促进分享交流。
+
+Level Infinite为合作工作室提供一系列支持及服务，助力其释放产品潜能。
+
+Level Infinite发行产品包括《PUBG MOBILE》、《Goddess of Victory: NIKKE 》《Honor of King》等热门游戏，并与合作工作室联手推出了来自Fatshark的《战锤40K：暗潮》、Funcom的《沙丘：觉醒》、Inflexion Studios的《夜莺》在内多款产品。
+
+想进一步了解Level Infinite，请访问www.levelinfinite.com，并在Twitter、Facebook、Instagram和Youtube上关注我们的官方账号。
+
+【岗位职责】
+1、负责二次元项目美术相关的效果与制作方案制定与实现
+2、与图形开发写作，实现渲染特性，并且推进落地
+3、参与制定美术流程管线，优化美术资源
+4、负责开发工具与shader的编写与实现方案，提升渲染品质
+5、推动技术规范制定、实施和执行，进行性能分析和优化，确定优化方案；
+6、支持美术与开发团队，解决生产中遇到的问题
+7、关注当前和未来行业内二次元相关工作流、工具和管线以及技术领域的信息和趋势，推动新技术在项目组的应用；
+8、招聘和培养初级技术美术，和技术美术团队其他成员一起进行技术研究和积累。
+Work Location: China-Guangzhou"
+腾讯云-机器学习算法专家,CSIG,"深圳
+                  ",技术,更新于2024年12月12日,"1.负责大数据+AI一体化框架和运行平台的设计、开发与技术演进，支撑公有云上的Data+AI一体化场景；
+2.积极关注AI领域的最新行业和学术进展，持续优化技术方案，并推进工作流程及研究效率的提升。"
+SSV-腾讯公益测试工程师,CDG,"深圳
+                  ",技术,更新于2024年12月12日,"1.负责腾讯公益小程序、一块走小程序等产品质量保障相关工作，包含整体质量体系规划和质量方案；
+2.负责安全、接口、性能测试等专项测试；
+3.对测试外包进行良好的体系化、专业化管理及培养能力提升，把控测试结果并持续提升测试质量；
+4.对测试过程实施自动化改进提升测试效率，行业优秀自动化测试工具平台的引入及搭建，提升整体交付质量。"
+腾讯云异构计算研发工程师-深圳、北京、上海,CSIG,"深圳
+                  ",技术,更新于2024年11月29日,"1.负责高性能计算集群的平台开发和建设工作，构建业界领先的集群算力调度能力、集群网络管理监控能力、集群故障发现和迁移自愈等能力；
+2.负责主流 AI 框架的云平台适配和性能调优工作，针对业界大模型训练，将主流加速框架（如DeepSpeed、Megatron-LM）结合云平台底层技术特点和优势，打造具备差异化竞争力的 AI 加速平台产品能力；
+3.负责主流 AI 模型训练和推理性能优化调优工作，提升 AI 推理业务快速部署能力，提供平台算法优化加速能力，能够灵活使用 Triton，TensorRT 等业界主流推理服务和组件，深度结合云原生产品技术架构优势，输出面向不同场景的性能加速最佳实践解决方案；
+4.负责跟踪 AI行业技术发展趋势，并进行深度探索分析，协同产品制订 AI 技术发展路线和产品规划；
+5.探索自研AI芯片分布式训练与推理云化能力，打造自研 AI 芯片一体化解决方案能力。"
+《代号：CFH》技术美术(动画）,IEG,"深圳
+                  ",设计,更新于2024年11月28日,"1.将负责开发和维护动画团队使用的动画系统，rigging，pipeline和流程；
+2.根据需要与动画师，游戏程序员和其他团队成员一起开发，测试和维护复杂的动画系统；
+3.向团队提供有关动画工具和编辑器的技术支持，协助动画资产的设计，集成和验证；
+4.参与并指导将动画资产集成到游戏引擎；
+5.研究和共享行业内现有引擎和动画包的知识。"
+金融科技-研效后台开发工程师,CDG,"深圳
+                  ",技术,更新于2024年12月26日,"1.负责腾讯金融科技效能后台设计和研发工作，围绕云开发能力、大规模构建、多环境的底层组网与调度、测试服务等纬度，建设统一一站式效能服务平台；
+2.负责有序探索和引入先进技术理念与系统框架，落地最佳实践，提升内外部研发工作的先进性储备；
+3.负责基于LLM的AIGC 赋能产品研发全链路应用能力搭建与优化，以及开放式AI Agent系统平台的设计和实施；
+4.紧贴上层业务团队，围绕业务的架构现状，共同设计更务实的升级方案，以工具、平台和技术方案服务业务云化改造和效能升级；
+5.深入底层，解决技术难题，以数据驱动持续提升系统性能和易用性，发现和治理上下游链路各类潜在系统技术风险，保证系统的合规、稳定运行。"
+腾讯安全-高级攻防工程师,CSIG,"深圳
+                  ",技术,更新于2024年12月26日,"1.负责云环境的渗透测试和漏洞挖掘，包括对云平台、云服务和云基础设施进行安全评估；
+2.跟踪和了解最新的云安全威胁和攻防技术，保持团队对云安全领域的技术更新；
+3.参与云产品漏洞的修复和漏洞管理过程，与开发团队合作解决安全问题；
+4.参与内外部安全演练，验证业务安全水位。"
+腾讯云-售后技术支持专家,CSIG,"北京
+                  ",产品,更新于2024年12月21日,"1.负责腾讯云公有云客户云上售后SRE专家支持工作，为客户提供容灾高可用，业务部署优化，架构优化，成本优化，容量管理，业务连续性治理等方面的专家服务；
+2.帮助客户进行应用部署架构的梳理与优化，通过云产品自身提供的高可用能力或者业界主流的容灾方案，为客户提供容灾高可用优化方案的设计与实施；
+3.通过混沌工程等演习手段，设计并实施客户应用业务层面的容灾方案与验证；
+4.对常见的互联网IT故障，设计应急预案并工具化落地，帮助客户实现容灾自动化逃生能力，达到客户业务对 RTO/RPO 要求；
+5.通过产品化，工具化的思路，提升客户在云上SRE管理与治理方面的体验与效率。"
+3D模型生成算法研究员,IEG,"深圳
+                  ",技术,更新于2024年12月13日,"1.负责开发AI系统，从文本描述或图像输入生成高质量的3D模型，适用于游戏制作和其他应用场景；
+2.优化AIGC大模型（3D生成），提升生成质量、速度、多样性和可控性，推动3D生成模型的工业化部署和产品落地；
+3.跨团队合作，将3D模型无缝集成到游戏环境中，提升玩家体验，并推动AI技术在具体业务场景中的应用。"
+腾讯云网络测试开发工程师,腾讯云智研发子公司,"西安
+                  ",技术,更新于2024年12月09日,"1.你是网络大牛，热衷于专研云网络技术的奥秘；亦或是有技术热情的潜力派，希望揭开云网络的神秘面纱，那么欢迎加入腾讯云网络测试团队，我们致力于腾讯云IAAS层云网络的质量保障工作，为腾讯云提供强大、稳定的网络通讯服务，支撑云上海量业务；
+2.在这里，你可以深入接触相关腾讯云网络产品，类如：私有网络、负载均衡、自定义防火墙、专线网络和NAT网关等；
+3.在这里，你还可以深入运用并学习相关Overlay网络技术，类如：Vxlan、GRE、L2/L3网络协议、IPSec、NAT原理、OSPF、BGP和ISIS等；
+4.在这里，你还可以深入接触Linux下前沿网络流量转发技术，类如：DPDK、OVS、智能网卡、FPGA和P4；
+5.在这里，你还可以深度参与腾讯云DevOps流程建设与相关运营工作，并且可以参与设计优化自动化测试框架进行相关自动化测试工作；
+6.加入我们，与业内最优秀的同事并肩，成为网络测试大牛，见证云网络技术的发展，创造业务的一个个里程碑；
+7.负责腾讯云产品需求和架构分析，测试设计和测试开发工作，包括IaaS层如计算、网络和虚拟化等，包括但不限于功能测试，性能测试，可靠性测试，高可用测试，混沌测试，稳定性测试，用户体验等系统测试工作；
+8.对测试方案进行有效的落地和执行，以确保项目进度和质量，形成自动化测试用例并进一步形成服务化提升效率；
+9.架构并实现IaaS层如网络、虚拟化等产品自动化测试平台，提升产品测试和交付能力；
+10.不断提升测试过程、方法和技术，构建质量评估标准，优化改进措施，提升产品质量和效率；
+11.设计、构建并落地各产品自动化构建、测试和发布的工程基础设施和流程优化；
+12.注：此岗位位腾讯集团旗下子公司编制。"
+高级系统测试,PCG,"深圳
+                  ",技术,更新于2024年11月27日,"1.负责应用宝业务质量保障相关工作，包含整体质量体系规划和质量方案设计；
+2.负责质量数据分析及质量复盘等质量问题分析诊断等工作；
+3.负责功能、性能、兼容性、接口测试等专项测试；
+4.对测试外包进行良好的体系化、专业化管理及培养能力提升，把控测试结果并持续提升测试质量；
+5.对测试过程实施自动化改进提升测试效率，行业优秀质量保障实践的引入和落地，持续提升整体交付质量。"
+高级系统测试,PCG,"深圳
+                  ",技术,更新于2024年11月27日,"1.负责QQ、浏览器业务质量保障相关工作，包含整体质量体系规划和质量方案设计；
+2.负责质量数据分析及质量复盘等质量问题分析诊断等工作；
+3.负责功能、性能、兼容性、接口测试等专项测试；
+4.对测试外包进行良好的体系化、专业化管理及培养能力提升，把控测试结果并持续提升测试质量；
+5.对测试过程实施自动化改进提升测试效率，行业优秀质量保障实践的引入和落地，持续提升整体交付质量。"
+腾讯云-开发者技术服务工程师,CSIG,"深圳
+                  ",技术,更新于2024年10月24日,"1.承担公有云多个技术栈的技术专家角色；
+2.负责提升一线客户服务工程师的专业度，如通过透传工单复盘，共性问题分析，技术培训和知识库沉淀等方式，持续提升一线客户服务工程师的服务专业度、问题自闭环率等指标；
+3.负责与公有云开发者建立深度的交流，专业高效解决开发者的问题，能够从开发者视角深度发掘服务和产品中的问题，并推动相关问题的持续改进。"
