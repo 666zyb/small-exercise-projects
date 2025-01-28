@@ -3,6 +3,10 @@
 ## 介绍
 这是我总结的一些Python练习项目！这个仓库包含了一系列的小项目，帮助我练习和提高Python编程技能。每个项目都设计成可以独立运行。
 (Here are some Python practice projects that I've compiled! This repository contains a series of small projects that helped me practice and improve my Python programming skills. Each project is designed to be run independently.)
+
+### 持续更新说明
+这个仓库会不断更新，我会持续添加新的Python练习项目，优化现有项目的代码，修复可能存在的问题，以不断提升项目的质量和功能。同时，也会根据实际情况调整项目的结构和文档说明，以提供更好的使用体验。如果你对这个仓库感兴趣，不妨持续关注，期待更多精彩内容！
+
 ### 项目列表
 - **[12306购票](https://github.com/666zyb/small-exercise-projects/tree/main/12306%E8%87%AA%E5%8A%A8%E8%B4%AD%E7%A5%A8)**:这个12306购票程序只能够进行简单的购票，并不能进行抢票
 - **[jpg转icon](https://github.com/666zyb/small-exercise-projects/blob/main/jpg_icon.py)**:将jpg，png图片转换为icon的图标
