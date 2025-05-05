@@ -14,6 +14,7 @@
 ### 项目列表
 
 - **[12306购票](https://github.com/666zyb/small-exercise-projects/tree/main/12306%E8%87%AA%E5%8A%A8%E8%B4%AD%E7%A5%A8)**:这个12306购票程序只能够进行简单的购票，并不能进行抢票
+- **[批量解压](https://github.com/666zyb/small-exercise-projects/blob/main/batch_zip_extractor.py)**:可以批量解压大量压缩文件，可以自己指定解压路径
 - **[jpg转icon](https://github.com/666zyb/small-exercise-projects/blob/main/jpg_icon.py)**:将jpg，png图片转换为icon的图标
 - **[邮件发送](https://github.com/666zyb/small-exercise-projects/blob/main/sendEmail.py)**:向指定联系人发送邮件
 - **[王者官网](https://github.com/666zyb/small-exercise-projects/tree/main/wangzheImage)**:获取王者官网的所有英雄图片和皮肤图片
