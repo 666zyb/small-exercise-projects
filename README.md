@@ -50,6 +50,7 @@
 - **[百度股市通每日行情](https://github.com/666zyb/small-exercise-projects/tree/main/百度股市通每日行情.py)**:可以在收盘后获取指定股票的今日行情信息，只需要修改ab_sr参数（在开发者模式中调试获取）即可
 - **[同花顺新闻](https://github.com/666zyb/small-exercise-projects/tree/main/同花顺.py)**:批量爬取同花顺快讯的新闻
 - **[财联社新闻](https://github.com/666zyb/small-exercise-projects/tree/main/财联社.py)**:批量获取财联社电报页面的新闻
+- **[Automate](https://github.com/666zyb/Automate)**:一个桌面应用，通过保存鼠标键盘等的操作来实现自动化回放，并且包含界面监控功能
 
  **克隆仓库**：如果需要，使用Git克隆这个仓库到你的本地计算机。
 
